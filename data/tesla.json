@@ -1,0 +1,213 @@
+{
+  "ticket": "tsla",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/article/us-tesla-stocks-graphic-idUSKBN1ZM23E",
+      "publish_date": "01/23/2020"
+    },
+    {
+      "url": "https://www.wsj.com/articles/tesla-tops-volkswagen-to-become-second-most-valuable-auto-maker-11579709320",
+      "publish_date": "01/22/2020"
+    },
+    {
+      "url": "https://www.wsj.com/articles/tesla-posts-fourth-quarter-profit-on-record-deliveries-11580334615",
+      "publish_date": "01/30/2020"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-health-coronavirus-musk-idUSKBN2160PM",
+      "publish_date": "03/19/2020"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-health-coronavirus-tesla-factory-idUSKBN2140Q8",
+      "publish_date": "03/17/2020"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-03-09/tesla-delivered-almost-one-third-of-all-electric-cars-in-china",
+      "publish_date": "03/09/2020"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-03-09/tesla-delivered-almost-one-third-of-all-electric-cars-in-china",
+      "publish_date": "03/09/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-bear-says-long-term-thesis-still-intact-sees-7000-price-target-by-2024-210751224.html",
+      "publish_date": "08/28/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/apple-tesla-stock-split-more-shares-to-go-around-morning-brief-100905716.html",
+      "publish_date": "09/01/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-shares-open-at-split-price-heres-how-the-stock-is-doing-135556291.html",
+      "publish_date": "08/31/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-stock-isn-t-cult-172538826.html",
+      "publish_date": "09/04/2020"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-09-11/tesla-plans-to-start-shipping-china-built-cars-to-europe-asia",
+      "publish_date": "09/11/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/as-tesla-surges-600-off-its-2020-low-meet-the-next-electric-newcomer-going-public-104542218.html",
+      "publish_date": "09/02/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/teslas-stock-sees-biggest-one-121517483.html",
+      "publish_date": "09/09/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-stocks-21-drop-tuesday-024929424.html",
+      "publish_date": "09/08/2020"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-tesla-cyber-idUSKBN25O07K",
+      "publish_date": "08/27/2020"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/invested-1-000-tesla-10-135556708.html",
+      "publish_date": "03/10/2021"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-tsla-know-options-market-204249724.html",
+      "publish_date": "03/10/2021"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-usa-stocks-tesla-idUSKBN2B126V",
+      "publish_date": "03/09/2021"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-stock-meltdown-tesla-beginning-185007237.html",
+      "publish_date": "03/04/2021"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-shares-red-2021-bitcoin-selloff-weighs-2021-02-23/",
+      "publish_date": "02/23/2021"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-unveil-updated-cybertruck-coming-025302320.html",
+      "publish_date": "03/07/2021"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/tesla-loses-third-its-value-third-time-year-2021-03-08/",
+      "publish_date": "03/08/2021"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/how-tesla-and-elon-musk-can-fight-the-new-ev-rivals-211028294.html",
+      "publish_date": "02/24/2021"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-former-board-member-says-023847385.html",
+      "publish_date": "03/02/2021"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2021-03-08/tesla-is-plugging-a-secret-mega-battery-into-the-texas-grid",
+      "publish_date": "08/03/2021"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-electric-vehicles-us-market-2023-01-13/",
+      "publish_date": "01/13/2023"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-could-face-its-toughest-challenge-yet-economy-cools-2022-10-04/",
+      "publish_date": "10/04/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/teslas-quarterly-deliveries-miss-estimates-2023-01-02/",
+      "publish_date": "01/03/2023"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-over-475000-electric-vehicles-2021-12-30/",
+      "publish_date": "12/31/2021"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-raises-prices-some-china-made-vehicles-2022-03-15/",
+      "publish_date": "03/15/2022"
+    },
+    {
+      "url": "https://www.wsj.com/articles/tesla-stock-elon-musk-electric-vehicle-11673623093",
+      "publish_date": "01/13/2023"
+    },
+    {
+      "url": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
+      "publish_date": "01/18/2023"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-misses-quarterly-revenue-estimates-2022-10-19/",
+      "publish_date": "10/20/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-market-cap-eclipses-that-top-5-rival-carmakers-combined-2021-10-26/",
+      "publish_date": "10/26/2021"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-11-million-us-vehicles-update-window-reversing-software-2022-09-22/",
+      "publish_date": "11/22/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-offers-discount-some-car-models-us-canada-2022-12-22/",
+      "publish_date": "12/22/2022"
+    },
+    {
+      "url": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/",
+      "publish_date": "10/27/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-used-car-price-bubble-pops-weighs-new-car-demand-2022-12-27/",
+      "publish_date": "12/27/2022"
+    },
+    {
+      "url": "https://www.reuters.com/technology/exclusive-musk-says-tesla-needs-cut-staff-by-10-pauses-all-hiring-2022-06-03/",
+      "publish_date": "06/03/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-40000-us-vehicles-over-potential-loss-power-steering-assist-2022-11-08/",
+      "publish_date": "11/08/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-run-reduced-output-shanghai-january-plan-shows-2022-12-27/",
+      "publish_date": "12/27/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/exclusive-tesla-halts-production-shanghai-plant-due-supply-issues-sources-2022-05-10/",
+      "publish_date": "05/10/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-321000-us-vehicles-over-rear-light-issue-2022-11-19/",
+      "publish_date": "11/21/2022"
+    },
+    {
+      "url": "https://www.reuters.com/technology/tesla-beats-quarterly-revenue-estimates-2023-01-25/",
+      "publish_date": "11/27/2023"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-owners-china-protest-against-surprise-price-cuts-they-missed-2023-01-07/",
+      "publish_date": "01/07/2023"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/hertz-orders-100000-tesla-cars-bloomberg-news-2021-10-25/",
+      "publish_date": "10/25/2021"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-cuts-starting-prices-model-3-model-y-china-2022-10-24/",
+      "publish_date": "10/24/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-falls-growing-angst-over-musks-focus-twitter-2022-12-20/",
+      "publish_date": "12/20/2022"
+    },
+    {
+      "url": "https://www.wsj.com/articles/elon-musks-decision-to-slow-new-tesla-models-risks-holding-up-growth-11643375015",
+      "publish_date": "01/28/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/musk-tells-tesla-workers-not-be-bothered-by-stock-market-craziness-2022-12-28/",
+      "publish_date": "12/29/2022"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-sold-56006-china-made-vehicles-september-cpca-2021-10-12/",
+      "publish_date": "10/12/2021"
+    }
+  ]
+}
