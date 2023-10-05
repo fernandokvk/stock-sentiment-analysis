@@ -2,10 +2,8 @@ import os
 import json
 from newspaper import Article
 
-# Define a dictionary to store data for each ticket
 ticket_data = {}
 
-# List of JSON files
 file_paths = [
     "data/netflix.json",
     "data/tesla.json",
@@ -13,7 +11,6 @@ file_paths = [
 ]
 
 
-# Function to download and parse articles
 def download_and_parse_articles(json_file):
     with open(json_file, 'r') as file:
         data = json.load(file)
@@ -34,7 +31,6 @@ def download_and_parse_articles(json_file):
                     'text': article.text
                 }
 
-                # Add the article data to the corresponding ticket's dictionary
                 ticket = data['ticket']
                 if ticket not in ticket_data:
                     ticket_data[ticket] = []
@@ -45,16 +41,13 @@ def download_and_parse_articles(json_file):
                 print(f"Error processing {url}: {str(e)}")
 
 
-# Loop through the list of JSON files and process each one
 for file_path in file_paths:
     download_and_parse_articles(file_path)
 
 
-# Create a directory to store individual ticket files
 output_directory = "ticket_data_files"
 os.makedirs(output_directory, exist_ok=True)
 
-# Iterate through ticket_data and write each ticket's data to a separate JSON file
 for ticket, articles in ticket_data.items():
     if articles:
         ticket_file_path = os.path.join(output_directory, f"{ticket}.json")

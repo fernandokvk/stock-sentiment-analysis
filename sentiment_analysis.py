@@ -24,7 +24,6 @@ ticket_data = {
     'nvda': []
 }
 
-# List of JSON files
 file_paths = [
     "ticket_data_files/nflx.json",
     "ticket_data_files/tsla.json",
@@ -34,7 +33,7 @@ file_paths = [
 
 def load_files(json_file):
     ticket = json_file.split("/")[-1].split(".json")[0]
-    with open(json_file, 'r', encoding='utf-8') as file:  # Specify the encoding
+    with open(json_file, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     for article in data:
