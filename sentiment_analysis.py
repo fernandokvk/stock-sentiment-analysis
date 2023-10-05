@@ -8,16 +8,6 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 nltk.download('wordnet')
 nltk.download('stopwords')
 
-
-class ParsedArticle:
-    def __init__(self, title, publish_date):
-        self.title = title
-        self.publish_date = publish_date
-        self.scores = {}
-    def add_score(self, score_name, score_value):
-        self.scores[score_name] = score_value
-
-
 ticket_data = {
     'nflx': [],
     'tsla': [],
@@ -48,17 +38,6 @@ def load_files(json_file):
 for files in file_paths:
     load_files(files)
 
-
-def parse_text(text):
-    vader_analyzer = SentimentIntensityAnalyzer()
-    return vader_analyzer.polarity_scores(text)
-
-
-scored_data = {
-    'nflx': [],
-    'tsla': [],
-    'nvda': []
-}
 def stem_text(article):
     stemmer = PorterStemmer()
     raw_text = article['text']
@@ -83,7 +62,16 @@ for ticket in ticket_data:
         stem_text(article)
         remove_stopwords(article)
 
+def parse_text(text):
+    vader_analyzer = SentimentIntensityAnalyzer()
+    return vader_analyzer.polarity_scores(text)
 
+
+scored_data = {
+    'nflx': [],
+    'tsla': [],
+    'nvda': []
+}
 
 for ticket in ticket_data:
     for article in ticket_data[ticket]:
