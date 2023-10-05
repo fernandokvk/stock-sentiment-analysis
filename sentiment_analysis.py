@@ -1,7 +1,12 @@
 import json
 import os
+import nltk
 from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+nltk.download('wordnet')
+nltk.download('stopwords')
 
 
 class ParsedArticle:
@@ -55,15 +60,45 @@ scored_data = {
     'tsla': [],
     'nvda': []
 }
+def stem_text(article):
+    stemmer = PorterStemmer()
+    raw_text = article['text']
+    stemmed_text = ' '.join([stemmer.stem(word) for word in raw_text.split()])
+    article['text_stemmed'] = stemmed_text
+
+def remove_stopwords(article):
+    stop_words = set(stopwords.words('english'))
+    raw_text = article['text']
+    text_without_stopwords = ' '.join([word for word in raw_text.split() if word.lower() not in stop_words])
+    article['text_without_stopwords'] = text_without_stopwords
+
+def lemmatize(article):
+    lemmatizer = WordNetLemmatizer()
+    raw_text = article['text']
+    lemmatized_text = ' '.join([lemmatizer.lemmatize(word) for word in raw_text.split()])
+    article['text_lemmatized'] = lemmatized_text
+
+for ticket in ticket_data:
+    for article in ticket_data[ticket]:
+        lemmatize(article)
+        stem_text(article)
+        remove_stopwords(article)
+
 
 
 for ticket in ticket_data:
     for article in ticket_data[ticket]:
         vader_score_raw = parse_text(article['text'])
+        vader_score_lemmatized = parse_text(article['text_lemmatized'])
+        vader_score_steemed = parse_text(article['text_stemmed'])
+        vader_score_without_stopwords = parse_text(article['text_without_stopwords'])
         scored_article = {
             'title': article['title'],
             'publish_date': article['publish_date'],
-            'vader_score_raw': vader_score_raw
+            'vader_score_raw': vader_score_raw,
+            'vader_score_lemmatized': vader_score_lemmatized,
+            'vader_score_steemed': vader_score_steemed,
+            'vader_score_stopwords': vader_score_without_stopwords
         }
         scored_data[ticket].append(scored_article)
 

@@ -7,6 +7,24 @@
             "neu": 0.895,
             "pos": 0.043,
             "compound": -0.8911
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.062,
+            "neu": 0.894,
+            "pos": 0.044,
+            "compound": -0.8781
+        },
+        "vader_score_steemed": {
+            "neg": 0.049,
+            "neu": 0.915,
+            "pos": 0.035,
+            "compound": -0.8126
+        },
+        "vader_score_stopwords": {
+            "neg": 0.084,
+            "neu": 0.853,
+            "pos": 0.063,
+            "compound": -0.8558
         }
     },
     {
@@ -16,6 +34,24 @@
             "neg": 0.067,
             "neu": 0.837,
             "pos": 0.096,
+            "compound": 0.7096
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.066,
+            "neu": 0.819,
+            "pos": 0.115,
+            "compound": 0.872
+        },
+        "vader_score_steemed": {
+            "neg": 0.056,
+            "neu": 0.834,
+            "pos": 0.109,
+            "compound": 0.8658
+        },
+        "vader_score_stopwords": {
+            "neg": 0.095,
+            "neu": 0.768,
+            "pos": 0.136,
             "compound": 0.7096
         }
     },
@@ -27,6 +63,24 @@
             "neu": 0.915,
             "pos": 0.068,
             "compound": 0.9761
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.02,
+            "neu": 0.904,
+            "pos": 0.076,
+            "compound": 0.9805
+        },
+        "vader_score_steemed": {
+            "neg": 0.017,
+            "neu": 0.947,
+            "pos": 0.035,
+            "compound": 0.8316
+        },
+        "vader_score_stopwords": {
+            "neg": 0.024,
+            "neu": 0.876,
+            "pos": 0.1,
+            "compound": 0.9761
         }
     },
     {
@@ -37,6 +91,24 @@
             "neu": 0.903,
             "pos": 0.092,
             "compound": 0.9803
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.005,
+            "neu": 0.895,
+            "pos": 0.1,
+            "compound": 0.9839
+        },
+        "vader_score_steemed": {
+            "neg": 0.005,
+            "neu": 0.944,
+            "pos": 0.051,
+            "compound": 0.9455
+        },
+        "vader_score_stopwords": {
+            "neg": 0.006,
+            "neu": 0.862,
+            "pos": 0.132,
+            "compound": 0.9805
         }
     },
     {
@@ -47,6 +119,24 @@
             "neu": 0.9,
             "pos": 0.071,
             "compound": 0.9477
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.035,
+            "neu": 0.891,
+            "pos": 0.074,
+            "compound": 0.9442
+        },
+        "vader_score_steemed": {
+            "neg": 0.038,
+            "neu": 0.896,
+            "pos": 0.066,
+            "compound": 0.9042
+        },
+        "vader_score_stopwords": {
+            "neg": 0.046,
+            "neu": 0.834,
+            "pos": 0.119,
+            "compound": 0.9719
         }
     },
     {
@@ -57,6 +147,24 @@
             "neu": 0.902,
             "pos": 0.057,
             "compound": 0.9116
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.042,
+            "neu": 0.889,
+            "pos": 0.069,
+            "compound": 0.953
+        },
+        "vader_score_steemed": {
+            "neg": 0.035,
+            "neu": 0.918,
+            "pos": 0.047,
+            "compound": 0.8402
+        },
+        "vader_score_stopwords": {
+            "neg": 0.055,
+            "neu": 0.88,
+            "pos": 0.065,
+            "compound": 0.7269
         }
     },
     {
@@ -67,6 +175,24 @@
             "neu": 0.862,
             "pos": 0.125,
             "compound": 0.9961
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.016,
+            "neu": 0.852,
+            "pos": 0.133,
+            "compound": 0.9964
+        },
+        "vader_score_steemed": {
+            "neg": 0.016,
+            "neu": 0.881,
+            "pos": 0.102,
+            "compound": 0.9934
+        },
+        "vader_score_stopwords": {
+            "neg": 0.019,
+            "neu": 0.796,
+            "pos": 0.185,
+            "compound": 0.996
         }
     },
     {
@@ -77,6 +203,24 @@
             "neu": 0.883,
             "pos": 0.103,
             "compound": 0.9931
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.014,
+            "neu": 0.87,
+            "pos": 0.116,
+            "compound": 0.9946
+        },
+        "vader_score_steemed": {
+            "neg": 0.014,
+            "neu": 0.875,
+            "pos": 0.111,
+            "compound": 0.9945
+        },
+        "vader_score_stopwords": {
+            "neg": 0.028,
+            "neu": 0.8,
+            "pos": 0.172,
+            "compound": 0.995
         }
     },
     {
@@ -87,6 +231,24 @@
             "neu": 0.907,
             "pos": 0.06,
             "compound": 0.3919
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.033,
+            "neu": 0.906,
+            "pos": 0.061,
+            "compound": 0.4019
+        },
+        "vader_score_steemed": {
+            "neg": 0.03,
+            "neu": 0.909,
+            "pos": 0.061,
+            "compound": 0.4588
+        },
+        "vader_score_stopwords": {
+            "neg": 0.079,
+            "neu": 0.768,
+            "pos": 0.154,
+            "compound": 0.6486
         }
     },
     {
@@ -97,6 +259,24 @@
             "neu": 0.747,
             "pos": 0.227,
             "compound": 0.9995
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.027,
+            "neu": 0.743,
+            "pos": 0.23,
+            "compound": 0.9995
+        },
+        "vader_score_steemed": {
+            "neg": 0.027,
+            "neu": 0.777,
+            "pos": 0.196,
+            "compound": 0.9993
+        },
+        "vader_score_stopwords": {
+            "neg": 0.027,
+            "neu": 0.644,
+            "pos": 0.329,
+            "compound": 0.9992
         }
     },
     {
@@ -107,6 +287,24 @@
             "neu": 0.771,
             "pos": 0.188,
             "compound": 0.9995
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.042,
+            "neu": 0.737,
+            "pos": 0.221,
+            "compound": 0.9997
+        },
+        "vader_score_steemed": {
+            "neg": 0.031,
+            "neu": 0.798,
+            "pos": 0.17,
+            "compound": 0.9994
+        },
+        "vader_score_stopwords": {
+            "neg": 0.05,
+            "neu": 0.7,
+            "pos": 0.249,
+            "compound": 0.9992
         }
     },
     {
@@ -117,6 +315,24 @@
             "neu": 0.907,
             "pos": 0.06,
             "compound": 0.3919
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.033,
+            "neu": 0.906,
+            "pos": 0.061,
+            "compound": 0.4019
+        },
+        "vader_score_steemed": {
+            "neg": 0.03,
+            "neu": 0.909,
+            "pos": 0.061,
+            "compound": 0.4588
+        },
+        "vader_score_stopwords": {
+            "neg": 0.079,
+            "neu": 0.768,
+            "pos": 0.154,
+            "compound": 0.6486
         }
     },
     {
@@ -127,6 +343,24 @@
             "neu": 0.878,
             "pos": 0.105,
             "compound": 0.9852
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.016,
+            "neu": 0.862,
+            "pos": 0.122,
+            "compound": 0.9899
+        },
+        "vader_score_steemed": {
+            "neg": 0.012,
+            "neu": 0.898,
+            "pos": 0.09,
+            "compound": 0.9788
+        },
+        "vader_score_stopwords": {
+            "neg": 0.03,
+            "neu": 0.819,
+            "pos": 0.151,
+            "compound": 0.9839
         }
     },
     {
@@ -137,6 +371,24 @@
             "neu": 0.879,
             "pos": 0.117,
             "compound": 0.9953
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.003,
+            "neu": 0.868,
+            "pos": 0.129,
+            "compound": 0.9963
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.916,
+            "pos": 0.084,
+            "compound": 0.991
+        },
+        "vader_score_stopwords": {
+            "neg": 0.004,
+            "neu": 0.837,
+            "pos": 0.159,
+            "compound": 0.9937
         }
     },
     {
@@ -147,6 +399,24 @@
             "neu": 0.888,
             "pos": 0.074,
             "compound": 0.9548
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.038,
+            "neu": 0.88,
+            "pos": 0.082,
+            "compound": 0.9692
+        },
+        "vader_score_steemed": {
+            "neg": 0.023,
+            "neu": 0.909,
+            "pos": 0.068,
+            "compound": 0.976
+        },
+        "vader_score_stopwords": {
+            "neg": 0.048,
+            "neu": 0.847,
+            "pos": 0.105,
+            "compound": 0.9678
         }
     },
     {
@@ -157,6 +427,24 @@
             "neu": 0.883,
             "pos": 0.106,
             "compound": 0.9979
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.013,
+            "neu": 0.855,
+            "pos": 0.132,
+            "compound": 0.9987
+        },
+        "vader_score_steemed": {
+            "neg": 0.013,
+            "neu": 0.895,
+            "pos": 0.093,
+            "compound": 0.997
+        },
+        "vader_score_stopwords": {
+            "neg": 0.014,
+            "neu": 0.864,
+            "pos": 0.122,
+            "compound": 0.9943
         }
     },
     {
@@ -167,6 +455,24 @@
             "neu": 0.901,
             "pos": 0.084,
             "compound": 0.9858
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.015,
+            "neu": 0.891,
+            "pos": 0.094,
+            "compound": 0.9896
+        },
+        "vader_score_steemed": {
+            "neg": 0.011,
+            "neu": 0.924,
+            "pos": 0.065,
+            "compound": 0.9783
+        },
+        "vader_score_stopwords": {
+            "neg": 0.028,
+            "neu": 0.853,
+            "pos": 0.119,
+            "compound": 0.9819
         }
     },
     {
@@ -177,6 +483,24 @@
             "neu": 0.9,
             "pos": 0.084,
             "compound": 0.9201
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.016,
+            "neu": 0.877,
+            "pos": 0.107,
+            "compound": 0.9509
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.915,
+            "pos": 0.085,
+            "compound": 0.9371
+        },
+        "vader_score_stopwords": {
+            "neg": 0.024,
+            "neu": 0.857,
+            "pos": 0.119,
+            "compound": 0.9159
         }
     },
     {
@@ -187,6 +511,24 @@
             "neu": 0.838,
             "pos": 0.122,
             "compound": 0.9982
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.039,
+            "neu": 0.82,
+            "pos": 0.141,
+            "compound": 0.9988
+        },
+        "vader_score_steemed": {
+            "neg": 0.035,
+            "neu": 0.848,
+            "pos": 0.117,
+            "compound": 0.998
+        },
+        "vader_score_stopwords": {
+            "neg": 0.044,
+            "neu": 0.827,
+            "pos": 0.129,
+            "compound": 0.9949
         }
     },
     {
@@ -197,6 +539,24 @@
             "neu": 0.909,
             "pos": 0.065,
             "compound": 0.9826
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.027,
+            "neu": 0.9,
+            "pos": 0.073,
+            "compound": 0.9862
+        },
+        "vader_score_steemed": {
+            "neg": 0.027,
+            "neu": 0.915,
+            "pos": 0.058,
+            "compound": 0.9642
+        },
+        "vader_score_stopwords": {
+            "neg": 0.027,
+            "neu": 0.861,
+            "pos": 0.112,
+            "compound": 0.995
         }
     },
     {
@@ -207,6 +567,24 @@
             "neu": 0.813,
             "pos": 0.156,
             "compound": 0.9986
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.031,
+            "neu": 0.8,
+            "pos": 0.169,
+            "compound": 0.9989
+        },
+        "vader_score_steemed": {
+            "neg": 0.028,
+            "neu": 0.811,
+            "pos": 0.161,
+            "compound": 0.9988
+        },
+        "vader_score_stopwords": {
+            "neg": 0.036,
+            "neu": 0.771,
+            "pos": 0.193,
+            "compound": 0.9975
         }
     },
     {
@@ -217,6 +595,24 @@
             "neu": 0.895,
             "pos": 0.083,
             "compound": 0.9857
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.022,
+            "neu": 0.888,
+            "pos": 0.089,
+            "compound": 0.9882
+        },
+        "vader_score_steemed": {
+            "neg": 0.016,
+            "neu": 0.914,
+            "pos": 0.07,
+            "compound": 0.9799
+        },
+        "vader_score_stopwords": {
+            "neg": 0.028,
+            "neu": 0.858,
+            "pos": 0.114,
+            "compound": 0.9826
         }
     },
     {
@@ -227,6 +623,24 @@
             "neu": 0.872,
             "pos": 0.128,
             "compound": 0.9945
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.858,
+            "pos": 0.142,
+            "compound": 0.9959
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.871,
+            "pos": 0.129,
+            "compound": 0.9952
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.835,
+            "pos": 0.165,
+            "compound": 0.9906
         }
     },
     {
@@ -237,6 +651,24 @@
             "neu": 0.882,
             "pos": 0.089,
             "compound": 0.9989
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.029,
+            "neu": 0.873,
+            "pos": 0.098,
+            "compound": 0.9992
+        },
+        "vader_score_steemed": {
+            "neg": 0.019,
+            "neu": 0.9,
+            "pos": 0.081,
+            "compound": 0.999
+        },
+        "vader_score_stopwords": {
+            "neg": 0.034,
+            "neu": 0.84,
+            "pos": 0.126,
+            "compound": 0.9987
         }
     },
     {
@@ -247,6 +679,24 @@
             "neu": 0.894,
             "pos": 0.049,
             "compound": -0.6249
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.057,
+            "neu": 0.876,
+            "pos": 0.067,
+            "compound": 0.8225
+        },
+        "vader_score_steemed": {
+            "neg": 0.04,
+            "neu": 0.896,
+            "pos": 0.064,
+            "compound": 0.9387
+        },
+        "vader_score_stopwords": {
+            "neg": 0.076,
+            "neu": 0.859,
+            "pos": 0.065,
+            "compound": -0.4445
         }
     },
     {
@@ -257,6 +707,24 @@
             "neu": 0.9,
             "pos": 0.071,
             "compound": 0.936
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.029,
+            "neu": 0.883,
+            "pos": 0.088,
+            "compound": 0.9618
+        },
+        "vader_score_steemed": {
+            "neg": 0.024,
+            "neu": 0.9,
+            "pos": 0.075,
+            "compound": 0.9423
+        },
+        "vader_score_stopwords": {
+            "neg": 0.041,
+            "neu": 0.858,
+            "pos": 0.101,
+            "compound": 0.9274
         }
     },
     {
@@ -267,6 +735,24 @@
             "neu": 0.892,
             "pos": 0.092,
             "compound": 0.9978
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.017,
+            "neu": 0.869,
+            "pos": 0.114,
+            "compound": 0.9987
+        },
+        "vader_score_steemed": {
+            "neg": 0.008,
+            "neu": 0.895,
+            "pos": 0.097,
+            "compound": 0.9985
+        },
+        "vader_score_stopwords": {
+            "neg": 0.019,
+            "neu": 0.853,
+            "pos": 0.128,
+            "compound": 0.9964
         }
     },
     {
@@ -277,6 +763,24 @@
             "neu": 0.925,
             "pos": 0.058,
             "compound": 0.9127
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.017,
+            "neu": 0.918,
+            "pos": 0.065,
+            "compound": 0.9331
+        },
+        "vader_score_steemed": {
+            "neg": 0.008,
+            "neu": 0.955,
+            "pos": 0.038,
+            "compound": 0.8591
+        },
+        "vader_score_stopwords": {
+            "neg": 0.023,
+            "neu": 0.867,
+            "pos": 0.11,
+            "compound": 0.967
         }
     },
     {
@@ -286,6 +790,24 @@
             "neg": 0.005,
             "neu": 0.918,
             "pos": 0.077,
+            "compound": 0.975
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.005,
+            "neu": 0.907,
+            "pos": 0.088,
+            "compound": 0.9814
+        },
+        "vader_score_steemed": {
+            "neg": 0.005,
+            "neu": 0.939,
+            "pos": 0.055,
+            "compound": 0.9423
+        },
+        "vader_score_stopwords": {
+            "neg": 0.008,
+            "neu": 0.878,
+            "pos": 0.114,
             "compound": 0.975
         }
     },
@@ -297,6 +819,24 @@
             "neu": 0.886,
             "pos": 0.087,
             "compound": 0.9696
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.027,
+            "neu": 0.864,
+            "pos": 0.109,
+            "compound": 0.9843
+        },
+        "vader_score_steemed": {
+            "neg": 0.023,
+            "neu": 0.912,
+            "pos": 0.065,
+            "compound": 0.94
+        },
+        "vader_score_stopwords": {
+            "neg": 0.044,
+            "neu": 0.862,
+            "pos": 0.094,
+            "compound": 0.8742
         }
     },
     {
@@ -307,6 +847,24 @@
             "neu": 0.911,
             "pos": 0.072,
             "compound": 0.9973
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.019,
+            "neu": 0.904,
+            "pos": 0.077,
+            "compound": 0.9976
+        },
+        "vader_score_steemed": {
+            "neg": 0.012,
+            "neu": 0.932,
+            "pos": 0.055,
+            "compound": 0.9947
+        },
+        "vader_score_stopwords": {
+            "neg": 0.024,
+            "neu": 0.896,
+            "pos": 0.079,
+            "compound": 0.9934
         }
     },
     {
@@ -317,6 +875,24 @@
             "neu": 0.83,
             "pos": 0.124,
             "compound": 0.981
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.046,
+            "neu": 0.822,
+            "pos": 0.132,
+            "compound": 0.9849
+        },
+        "vader_score_steemed": {
+            "neg": 0.034,
+            "neu": 0.867,
+            "pos": 0.1,
+            "compound": 0.9704
+        },
+        "vader_score_stopwords": {
+            "neg": 0.052,
+            "neu": 0.796,
+            "pos": 0.152,
+            "compound": 0.9726
         }
     },
     {
@@ -326,6 +902,24 @@
             "neg": 0.0,
             "neu": 0.871,
             "pos": 0.129,
+            "compound": 0.9771
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.862,
+            "pos": 0.138,
+            "compound": 0.9803
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.881,
+            "pos": 0.119,
+            "compound": 0.9735
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.817,
+            "pos": 0.183,
             "compound": 0.9771
         }
     },
@@ -337,6 +931,24 @@
             "neu": 0.828,
             "pos": 0.162,
             "compound": 0.9985
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.011,
+            "neu": 0.824,
+            "pos": 0.165,
+            "compound": 0.9986
+        },
+        "vader_score_steemed": {
+            "neg": 0.009,
+            "neu": 0.845,
+            "pos": 0.146,
+            "compound": 0.9982
+        },
+        "vader_score_stopwords": {
+            "neg": 0.015,
+            "neu": 0.76,
+            "pos": 0.225,
+            "compound": 0.9984
         }
     },
     {
@@ -346,6 +958,24 @@
             "neg": 0.055,
             "neu": 0.893,
             "pos": 0.051,
+            "compound": 0.0258
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.076,
+            "neu": 0.863,
+            "pos": 0.062,
+            "compound": -0.2263
+        },
+        "vader_score_steemed": {
+            "neg": 0.064,
+            "neu": 0.889,
+            "pos": 0.048,
+            "compound": -0.3182
+        },
+        "vader_score_stopwords": {
+            "neg": 0.077,
+            "neu": 0.853,
+            "pos": 0.07,
             "compound": 0.0258
         }
     },
@@ -357,6 +987,24 @@
             "neu": 0.898,
             "pos": 0.063,
             "compound": 0.9459
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.049,
+            "neu": 0.862,
+            "pos": 0.089,
+            "compound": 0.9755
+        },
+        "vader_score_steemed": {
+            "neg": 0.035,
+            "neu": 0.889,
+            "pos": 0.076,
+            "compound": 0.9702
+        },
+        "vader_score_stopwords": {
+            "neg": 0.068,
+            "neu": 0.852,
+            "pos": 0.081,
+            "compound": 0.6908
         }
     },
     {
@@ -367,6 +1015,24 @@
             "neu": 0.773,
             "pos": 0.219,
             "compound": 0.9981
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.008,
+            "neu": 0.772,
+            "pos": 0.22,
+            "compound": 0.9982
+        },
+        "vader_score_steemed": {
+            "neg": 0.008,
+            "neu": 0.775,
+            "pos": 0.217,
+            "compound": 0.9981
+        },
+        "vader_score_stopwords": {
+            "neg": 0.02,
+            "neu": 0.742,
+            "pos": 0.238,
+            "compound": 0.9949
         }
     },
     {
@@ -377,6 +1043,24 @@
             "neu": 0.772,
             "pos": 0.212,
             "compound": 0.9932
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.015,
+            "neu": 0.75,
+            "pos": 0.234,
+            "compound": 0.9945
+        },
+        "vader_score_steemed": {
+            "neg": 0.016,
+            "neu": 0.793,
+            "pos": 0.192,
+            "compound": 0.9913
+        },
+        "vader_score_stopwords": {
+            "neg": 0.035,
+            "neu": 0.662,
+            "pos": 0.303,
+            "compound": 0.9915
         }
     },
     {
@@ -387,6 +1071,24 @@
             "neu": 0.879,
             "pos": 0.113,
             "compound": 0.9895
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.009,
+            "neu": 0.867,
+            "pos": 0.124,
+            "compound": 0.9914
+        },
+        "vader_score_steemed": {
+            "neg": 0.005,
+            "neu": 0.904,
+            "pos": 0.091,
+            "compound": 0.9829
+        },
+        "vader_score_stopwords": {
+            "neg": 0.013,
+            "neu": 0.823,
+            "pos": 0.165,
+            "compound": 0.989
         }
     },
     {
@@ -397,6 +1099,24 @@
             "neu": 0.923,
             "pos": 0.062,
             "compound": 0.9647
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.015,
+            "neu": 0.919,
+            "pos": 0.066,
+            "compound": 0.9705
+        },
+        "vader_score_steemed": {
+            "neg": 0.012,
+            "neu": 0.952,
+            "pos": 0.037,
+            "compound": 0.8976
+        },
+        "vader_score_stopwords": {
+            "neg": 0.017,
+            "neu": 0.891,
+            "pos": 0.092,
+            "compound": 0.9723
         }
     },
     {
@@ -407,6 +1127,24 @@
             "neu": 0.851,
             "pos": 0.108,
             "compound": 0.974
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.04,
+            "neu": 0.791,
+            "pos": 0.17,
+            "compound": 0.9929
+        },
+        "vader_score_steemed": {
+            "neg": 0.037,
+            "neu": 0.821,
+            "pos": 0.142,
+            "compound": 0.9882
+        },
+        "vader_score_stopwords": {
+            "neg": 0.057,
+            "neu": 0.796,
+            "pos": 0.147,
+            "compound": 0.969
         }
     },
     {
@@ -417,6 +1155,24 @@
             "neu": 0.886,
             "pos": 0.105,
             "compound": 0.9953
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.009,
+            "neu": 0.862,
+            "pos": 0.129,
+            "compound": 0.997
+        },
+        "vader_score_steemed": {
+            "neg": 0.005,
+            "neu": 0.88,
+            "pos": 0.115,
+            "compound": 0.9965
+        },
+        "vader_score_stopwords": {
+            "neg": 0.008,
+            "neu": 0.787,
+            "pos": 0.205,
+            "compound": 0.9978
         }
     },
     {
@@ -427,6 +1183,24 @@
             "neu": 0.859,
             "pos": 0.103,
             "compound": 0.9728
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.038,
+            "neu": 0.859,
+            "pos": 0.103,
+            "compound": 0.9728
+        },
+        "vader_score_steemed": {
+            "neg": 0.039,
+            "neu": 0.869,
+            "pos": 0.091,
+            "compound": 0.9562
+        },
+        "vader_score_stopwords": {
+            "neg": 0.046,
+            "neu": 0.826,
+            "pos": 0.128,
+            "compound": 0.9601
         }
     },
     {
@@ -437,6 +1211,24 @@
             "neu": 0.894,
             "pos": 0.091,
             "compound": 0.9911
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.015,
+            "neu": 0.879,
+            "pos": 0.106,
+            "compound": 0.9939
+        },
+        "vader_score_steemed": {
+            "neg": 0.014,
+            "neu": 0.902,
+            "pos": 0.084,
+            "compound": 0.9896
+        },
+        "vader_score_stopwords": {
+            "neg": 0.024,
+            "neu": 0.837,
+            "pos": 0.139,
+            "compound": 0.9907
         }
     },
     {
@@ -447,6 +1239,24 @@
             "neu": 0.907,
             "pos": 0.06,
             "compound": 0.3919
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.033,
+            "neu": 0.906,
+            "pos": 0.061,
+            "compound": 0.4019
+        },
+        "vader_score_steemed": {
+            "neg": 0.03,
+            "neu": 0.909,
+            "pos": 0.061,
+            "compound": 0.4588
+        },
+        "vader_score_stopwords": {
+            "neg": 0.079,
+            "neu": 0.768,
+            "pos": 0.154,
+            "compound": 0.6486
         }
     },
     {
@@ -456,6 +1266,24 @@
             "neg": 0.107,
             "neu": 0.873,
             "pos": 0.02,
+            "compound": -0.959
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.099,
+            "neu": 0.872,
+            "pos": 0.029,
+            "compound": -0.9393
+        },
+        "vader_score_steemed": {
+            "neg": 0.061,
+            "neu": 0.929,
+            "pos": 0.01,
+            "compound": -0.891
+        },
+        "vader_score_stopwords": {
+            "neg": 0.166,
+            "neu": 0.803,
+            "pos": 0.031,
             "compound": -0.959
         }
     },
@@ -467,6 +1295,24 @@
             "neu": 0.779,
             "pos": 0.148,
             "compound": 0.9968
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.074,
+            "neu": 0.756,
+            "pos": 0.17,
+            "compound": 0.9981
+        },
+        "vader_score_steemed": {
+            "neg": 0.065,
+            "neu": 0.785,
+            "pos": 0.15,
+            "compound": 0.9971
+        },
+        "vader_score_stopwords": {
+            "neg": 0.086,
+            "neu": 0.672,
+            "pos": 0.242,
+            "compound": 0.9983
         }
     },
     {
@@ -477,6 +1323,24 @@
             "neu": 0.899,
             "pos": 0.08,
             "compound": 0.9935
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.021,
+            "neu": 0.869,
+            "pos": 0.11,
+            "compound": 0.9971
+        },
+        "vader_score_steemed": {
+            "neg": 0.015,
+            "neu": 0.896,
+            "pos": 0.089,
+            "compound": 0.9961
+        },
+        "vader_score_stopwords": {
+            "neg": 0.03,
+            "neu": 0.838,
+            "pos": 0.132,
+            "compound": 0.9956
         }
     },
     {
@@ -486,6 +1350,24 @@
             "neg": 0.027,
             "neu": 0.867,
             "pos": 0.106,
+            "compound": 0.9702
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.026,
+            "neu": 0.824,
+            "pos": 0.15,
+            "compound": 0.9871
+        },
+        "vader_score_steemed": {
+            "neg": 0.013,
+            "neu": 0.861,
+            "pos": 0.126,
+            "compound": 0.9828
+        },
+        "vader_score_stopwords": {
+            "neg": 0.04,
+            "neu": 0.805,
+            "pos": 0.156,
             "compound": 0.9702
         }
     },
@@ -497,6 +1379,24 @@
             "neu": 0.893,
             "pos": 0.092,
             "compound": 0.9936
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.016,
+            "neu": 0.851,
+            "pos": 0.134,
+            "compound": 0.9975
+        },
+        "vader_score_steemed": {
+            "neg": 0.004,
+            "neu": 0.882,
+            "pos": 0.114,
+            "compound": 0.997
+        },
+        "vader_score_stopwords": {
+            "neg": 0.023,
+            "neu": 0.841,
+            "pos": 0.136,
+            "compound": 0.9935
         }
     },
     {
@@ -507,6 +1407,24 @@
             "neu": 0.901,
             "pos": 0.07,
             "compound": 0.9598
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.029,
+            "neu": 0.891,
+            "pos": 0.079,
+            "compound": 0.9721
+        },
+        "vader_score_steemed": {
+            "neg": 0.029,
+            "neu": 0.902,
+            "pos": 0.069,
+            "compound": 0.9598
+        },
+        "vader_score_stopwords": {
+            "neg": 0.053,
+            "neu": 0.813,
+            "pos": 0.135,
+            "compound": 0.9887
         }
     },
     {
@@ -517,6 +1435,24 @@
             "neu": 0.915,
             "pos": 0.062,
             "compound": 0.9893
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.025,
+            "neu": 0.889,
+            "pos": 0.087,
+            "compound": 0.9956
+        },
+        "vader_score_steemed": {
+            "neg": 0.018,
+            "neu": 0.915,
+            "pos": 0.067,
+            "compound": 0.9933
+        },
+        "vader_score_stopwords": {
+            "neg": 0.031,
+            "neu": 0.857,
+            "pos": 0.112,
+            "compound": 0.9955
         }
     }
 ]
