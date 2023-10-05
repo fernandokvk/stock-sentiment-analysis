@@ -1,0 +1,1430 @@
+[
+    {
+        "title": "Netflix adds 15.7 million global users in Q1 2020 amid coronavirus pandemic",
+        "publish_date": "04/22/2020",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix to raise $1 billion to fund original content",
+        "publish_date": "04/22/2020",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.777,
+            "pos": 0.223,
+            "compound": 0.3182
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.777,
+            "pos": 0.223,
+            "compound": 0.3182
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.723,
+            "pos": 0.277,
+            "compound": 0.3182
+        }
+    },
+    {
+        "title": "Breakingviews - Netflix is still the pointiest FAANG",
+        "publish_date": "07/06/2020",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Blackstone Snaps Up Studio Lots for a Slice of Streaming Riches",
+        "publish_date": "08/11/2020",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.746,
+            "pos": 0.254,
+            "compound": 0.5267
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.746,
+            "pos": 0.254,
+            "compound": 0.5267
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.735,
+            "pos": 0.265,
+            "compound": 0.5574
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.638,
+            "pos": 0.362,
+            "compound": 0.5267
+        }
+    },
+    {
+        "title": "Netflix co-founder on creative culture: We \u2018manage on the edge of chaos\u2019",
+        "publish_date": "09/08/2020",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.791,
+            "pos": 0.209,
+            "compound": 0.4404
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.791,
+            "pos": 0.209,
+            "compound": 0.4404
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.674,
+            "pos": 0.326,
+            "compound": 0.4404
+        }
+    },
+    {
+        "title": "Which FAANG Stock Will Grow The Most By 2025?",
+        "publish_date": "09/06/2020",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "How Netflix\u2019s overseas expansion fueled its explosive growth in subscribers",
+        "publish_date": "01/20/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.776,
+            "pos": 0.224,
+            "compound": 0.3818
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.776,
+            "pos": 0.224,
+            "compound": 0.3818
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.776,
+            "pos": 0.224,
+            "compound": 0.3818
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.698,
+            "pos": 0.302,
+            "compound": 0.3818
+        }
+    },
+    {
+        "title": "Netflix forecasts an end to borrowing binge, shares surge",
+        "publish_date": "01/19/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.784,
+            "pos": 0.216,
+            "compound": 0.296
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.784,
+            "pos": 0.216,
+            "compound": 0.296
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.784,
+            "pos": 0.216,
+            "compound": 0.296
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.732,
+            "pos": 0.268,
+            "compound": 0.296
+        }
+    },
+    {
+        "title": "Here's How Much Investing $1,000 In Netflix Stock 5 Years Ago Would Be Worth Today",
+        "publish_date": "01/20/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.881,
+            "pos": 0.119,
+            "compound": 0.2263
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.881,
+            "pos": 0.119,
+            "compound": 0.2263
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.881,
+            "pos": 0.119,
+            "compound": 0.2263
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.853,
+            "pos": 0.147,
+            "compound": 0.2263
+        }
+    },
+    {
+        "title": "How To Trade Netflix Ahead Of Its Earnings Report Using Options",
+        "publish_date": "01/19/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "'Netflix stock may be dead money,' says analyst",
+        "publish_date": "01/21/2022",
+        "vader_score_raw": {
+            "neg": 0.381,
+            "neu": 0.619,
+            "pos": 0.0,
+            "compound": -0.6486
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.381,
+            "neu": 0.619,
+            "pos": 0.0,
+            "compound": -0.6486
+        },
+        "vader_score_steemed": {
+            "neg": 0.381,
+            "neu": 0.619,
+            "pos": 0.0,
+            "compound": -0.6486
+        },
+        "vader_score_stopwords": {
+            "neg": 0.417,
+            "neu": 0.583,
+            "pos": 0.0,
+            "compound": -0.6486
+        }
+    },
+    {
+        "title": "ETFs Most Exposed To Netflix\u2019s Epic Sell-Off",
+        "publish_date": "01/21/2022",
+        "vader_score_raw": {
+            "neg": 0.21,
+            "neu": 0.79,
+            "pos": 0.0,
+            "compound": -0.1513
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.21,
+            "neu": 0.79,
+            "pos": 0.0,
+            "compound": -0.1513
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.245,
+            "neu": 0.755,
+            "pos": 0.0,
+            "compound": -0.0772
+        }
+    },
+    {
+        "title": "\u2018Netflix killers\u2019: How crypto film start-ups are using the blockchain to disrupt Hollywood",
+        "publish_date": "01/30/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix raises monthly subscription prices in U.S., Canada",
+        "publish_date": "01/14/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Why Netflix Just Had Its Worst Day in A Decade",
+        "publish_date": "01/23/2022",
+        "vader_score_raw": {
+            "neg": 0.313,
+            "neu": 0.687,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.313,
+            "neu": 0.687,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "vader_score_steemed": {
+            "neg": 0.313,
+            "neu": 0.687,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "vader_score_stopwords": {
+            "neg": 0.577,
+            "neu": 0.423,
+            "pos": 0.0,
+            "compound": -0.6249
+        }
+    },
+    {
+        "title": "Netflix Outlines The Next Phase of Its Sports Strategy",
+        "publish_date": "01/16/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Gloomy Netflix forecast erases much of stock's pandemic gains",
+        "publish_date": "01/21/2022",
+        "vader_score_raw": {
+            "neg": 0.145,
+            "neu": 0.636,
+            "pos": 0.218,
+            "compound": 0.2023
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.133,
+            "neu": 0.583,
+            "pos": 0.283,
+            "compound": 0.4215
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.702,
+            "pos": 0.298,
+            "compound": 0.5267
+        },
+        "vader_score_stopwords": {
+            "neg": 0.16,
+            "neu": 0.6,
+            "pos": 0.24,
+            "compound": 0.2023
+        }
+    },
+    {
+        "title": "Netflix is testing an awesome new redesign \u2013 see it right here",
+        "publish_date": "02/01/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.728,
+            "pos": 0.272,
+            "compound": 0.6249
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.728,
+            "pos": 0.272,
+            "compound": 0.6249
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.631,
+            "pos": 0.369,
+            "compound": 0.6249
+        }
+    },
+    {
+        "title": "Netflix earnings to set the pace for 2022 streaming wars",
+        "publish_date": "01/18/2022",
+        "vader_score_raw": {
+            "neg": 0.286,
+            "neu": 0.714,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.302,
+            "neu": 0.698,
+            "pos": 0.0,
+            "compound": -0.5994
+        },
+        "vader_score_steemed": {
+            "neg": 0.302,
+            "neu": 0.698,
+            "pos": 0.0,
+            "compound": -0.5994
+        },
+        "vader_score_stopwords": {
+            "neg": 0.375,
+            "neu": 0.625,
+            "pos": 0.0,
+            "compound": -0.5574
+        }
+    },
+    {
+        "title": "Netflix rocked by subscriber loss, may offer cheaper ad-supported plans",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.204,
+            "neu": 0.796,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.204,
+            "neu": 0.796,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "vader_score_steemed": {
+            "neg": 0.204,
+            "neu": 0.796,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "vader_score_stopwords": {
+            "neg": 0.223,
+            "neu": 0.777,
+            "pos": 0.0,
+            "compound": -0.3182
+        }
+    },
+    {
+        "title": "Netflix heads for worst day in two decades as investors hit 'not for me'",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.24,
+            "neu": 0.76,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.24,
+            "neu": 0.76,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "vader_score_steemed": {
+            "neg": 0.24,
+            "neu": 0.76,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "vader_score_stopwords": {
+            "neg": 0.313,
+            "neu": 0.687,
+            "pos": 0.0,
+            "compound": -0.6249
+        }
+    },
+    {
+        "title": "Investors skeptical of Netflix's plans to crack down on account sharing",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.163,
+            "neu": 0.638,
+            "pos": 0.199,
+            "compound": 0.128
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.163,
+            "neu": 0.638,
+            "pos": 0.199,
+            "compound": 0.128
+        },
+        "vader_score_steemed": {
+            "neg": 0.145,
+            "neu": 0.687,
+            "pos": 0.168,
+            "compound": 0.0772
+        },
+        "vader_score_stopwords": {
+            "neg": 0.228,
+            "neu": 0.495,
+            "pos": 0.277,
+            "compound": 0.128
+        }
+    },
+    {
+        "title": "Netflix Has Finally Hit a Wall. Where Does it Go From Here?",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.821,
+            "pos": 0.179,
+            "compound": 0.34
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix Q1 net subscribers unexpectedly decline, revenue misses expectations",
+        "publish_date": "04/19/2022",
+        "vader_score_raw": {
+            "neg": 0.192,
+            "neu": 0.808,
+            "pos": 0.0,
+            "compound": -0.2263
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.1531
+        },
+        "vader_score_steemed": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.1531
+        },
+        "vader_score_stopwords": {
+            "neg": 0.192,
+            "neu": 0.808,
+            "pos": 0.0,
+            "compound": -0.2263
+        }
+    },
+    {
+        "title": "Netflix shareholders sue over subscription slump disclosures",
+        "publish_date": "05/04/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix is losing billions a year to password sharing. Here\u2019s how it plans to fight back",
+        "publish_date": "04/18/2022",
+        "vader_score_raw": {
+            "neg": 0.248,
+            "neu": 0.619,
+            "pos": 0.133,
+            "compound": -0.34
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.248,
+            "neu": 0.619,
+            "pos": 0.133,
+            "compound": -0.34
+        },
+        "vader_score_steemed": {
+            "neg": 0.251,
+            "neu": 0.616,
+            "pos": 0.133,
+            "compound": -0.3612
+        },
+        "vader_score_stopwords": {
+            "neg": 0.347,
+            "neu": 0.467,
+            "pos": 0.187,
+            "compound": -0.34
+        }
+    },
+    {
+        "title": "Everything You Need to Know About Netflix\u2019s Big Miss",
+        "publish_date": "04/21/2022",
+        "vader_score_raw": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.1531
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.1531
+        },
+        "vader_score_steemed": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.1531
+        },
+        "vader_score_stopwords": {
+            "neg": 0.242,
+            "neu": 0.758,
+            "pos": 0.0,
+            "compound": -0.1531
+        }
+    },
+    {
+        "title": "Netflix (NFLX) Down as Much as 39%; Biggest Drop Since 2004",
+        "publish_date": "04/19/2022",
+        "vader_score_raw": {
+            "neg": 0.174,
+            "neu": 0.826,
+            "pos": 0.0,
+            "compound": -0.2732
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.174,
+            "neu": 0.826,
+            "pos": 0.0,
+            "compound": -0.2732
+        },
+        "vader_score_steemed": {
+            "neg": 0.174,
+            "neu": 0.826,
+            "pos": 0.0,
+            "compound": -0.2732
+        },
+        "vader_score_stopwords": {
+            "neg": 0.231,
+            "neu": 0.769,
+            "pos": 0.0,
+            "compound": -0.2732
+        }
+    },
+    {
+        "title": "Netflix reverses subscriber slump, shares surge 14%",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.732,
+            "pos": 0.268,
+            "compound": 0.296
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.732,
+            "pos": 0.268,
+            "compound": 0.296
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.732,
+            "pos": 0.268,
+            "compound": 0.296
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.732,
+            "pos": 0.268,
+            "compound": 0.296
+        }
+    },
+    {
+        "title": "Coming Soon on Netflix: A New Netflix",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "What Netflix Will Look Like in 2023",
+        "publish_date": "10/16/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.545,
+            "pos": 0.455,
+            "compound": 0.3612
+        }
+    },
+    {
+        "title": "Netflix ad-supported plan to launch in November at $7 a month",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix may haul in billions of dollars by selling ads, predicts JPMorgan",
+        "publish_date": "10/10/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix Q3 earnings beat with streamer adding 2.4M subscribers",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix Returns to Growth, Saying the Worst of Slowdown Is Over",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.261,
+            "neu": 0.573,
+            "pos": 0.166,
+            "compound": -0.3612
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.261,
+            "neu": 0.573,
+            "pos": 0.166,
+            "compound": -0.3612
+        },
+        "vader_score_steemed": {
+            "neg": 0.261,
+            "neu": 0.573,
+            "pos": 0.166,
+            "compound": -0.3612
+        },
+        "vader_score_stopwords": {
+            "neg": 0.383,
+            "neu": 0.374,
+            "pos": 0.243,
+            "compound": -0.3612
+        }
+    },
+    {
+        "title": "Netflix Plans to Launch $7-a-Month Streaming Plan With Advertising",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix will begin charging 'extra user' fees early next year",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix with ads will be available November 3rd for $7 per month",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "When Netflix and HBO Turned on Each Other, They Forged a New Era of Television",
+        "publish_date": "10/28/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix stock: Why 2 analysts think the streaming giant is still a screaming Sell",
+        "publish_date": "10/11/2022",
+        "vader_score_raw": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "vader_score_steemed": {
+            "neg": 0.172,
+            "neu": 0.828,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "vader_score_stopwords": {
+            "neg": 0.224,
+            "neu": 0.776,
+            "pos": 0.0,
+            "compound": -0.3818
+        }
+    },
+    {
+        "title": "Netflix to Spend $100 Million to Help Underrepresented Communities in Entertainment",
+        "publish_date": "02/26/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.621,
+            "pos": 0.379,
+            "compound": 0.6705
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.621,
+            "pos": 0.379,
+            "compound": 0.6705
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.643,
+            "pos": 0.357,
+            "compound": 0.6124
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.522,
+            "pos": 0.478,
+            "compound": 0.6705
+        }
+    },
+    {
+        "title": "Netflix Raises Subscription Prices in U.S., Canada",
+        "publish_date": "01/14/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix Tops 200 Million Subscribers for the First Time",
+        "publish_date": "01/19/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.708,
+            "pos": 0.292,
+            "compound": 0.5106
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.708,
+            "pos": 0.292,
+            "compound": 0.5106
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.816,
+            "pos": 0.184,
+            "compound": 0.2023
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.645,
+            "pos": 0.355,
+            "compound": 0.5106
+        }
+    },
+    {
+        "title": "Netflix, Facing Reality Check, Vows to Curb Its Profligate Ways",
+        "publish_date": "04/21/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix Stock Price Drops 35%, Posting Biggest Fall Since 2004",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.189,
+            "neu": 0.811,
+            "pos": 0.0,
+            "compound": -0.2732
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix Explores a Version With Ads as Subscriber Base Shrinks",
+        "publish_date": "04/19/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix\u2019s Password Crackdown Is Coming. Here\u2019s What That Means for Account Sharers",
+        "publish_date": "04/21/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix With Ads Launching as Talks Continue With Studios Over Content",
+        "publish_date": "11/02/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix\u2019s Ad-Supported Plan Will Launch in November at $6.99 a Month",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "title": "Netflix Gains 2.4 Million New Subscribers, Reversing Trend",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.745,
+            "pos": 0.255,
+            "compound": 0.34
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 0.745,
+            "pos": 0.255,
+            "compound": 0.34
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 0.673,
+            "pos": 0.327,
+            "compound": 0.5267
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 0.745,
+            "pos": 0.255,
+            "compound": 0.34
+        }
+    },
+    {
+        "title": "Netflix Seeks Ways to Get Subscribers to Return After Visits Decline",
+        "publish_date": "10/17/2022",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_lemmatized": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_steemed": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "vader_score_stopwords": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    }
+]
