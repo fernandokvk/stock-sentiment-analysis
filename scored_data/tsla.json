@@ -1,0 +1,522 @@
+[
+    {
+        "title": "Tesla overtakes Volkswagen as world's second most valuable carmaker",
+        "publish_date": "01/23/2020",
+        "vader_score_raw": {
+            "neg": 0.006,
+            "neu": 0.858,
+            "pos": 0.135,
+            "compound": 0.975
+        }
+    },
+    {
+        "title": "Tesla suspends production at U.S. vehicle factory due to coronavirus",
+        "publish_date": "03/19/2020",
+        "vader_score_raw": {
+            "neg": 0.042,
+            "neu": 0.915,
+            "pos": 0.043,
+            "compound": 0.0627
+        }
+    },
+    {
+        "title": "Tesla plant can't run normally in coronavirus shutdown: California county",
+        "publish_date": "03/17/2020",
+        "vader_score_raw": {
+            "neg": 0.046,
+            "neu": 0.889,
+            "pos": 0.065,
+            "compound": 0.7269
+        }
+    },
+    {
+        "title": "Tesla Delivers Almost One-Third of All Electric Cars in China",
+        "publish_date": "03/09/2020",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Tesla Delivers Almost One-Third of All Electric Cars in China",
+        "publish_date": "03/09/2020",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Tesla bull says long-term thesis 'still intact,' sees $7,000 price target by 2024",
+        "publish_date": "08/28/2020",
+        "vader_score_raw": {
+            "neg": 0.017,
+            "neu": 0.9,
+            "pos": 0.083,
+            "compound": 0.9765
+        }
+    },
+    {
+        "title": "Why Apple and Tesla shares surged after getting split: Morning Brief",
+        "publish_date": "09/01/2020",
+        "vader_score_raw": {
+            "neg": 0.026,
+            "neu": 0.875,
+            "pos": 0.099,
+            "compound": 0.9933
+        }
+    },
+    {
+        "title": "Tesla shares surge 12% on day of stock split",
+        "publish_date": "08/31/2020",
+        "vader_score_raw": {
+            "neg": 0.008,
+            "neu": 0.907,
+            "pos": 0.084,
+            "compound": 0.9892
+        }
+    },
+    {
+        "title": "Tesla Stock Isn\u2019t a Cult, it\u2019s a Religion",
+        "publish_date": "09/04/2020",
+        "vader_score_raw": {
+            "neg": 0.057,
+            "neu": 0.852,
+            "pos": 0.09,
+            "compound": 0.985
+        }
+    },
+    {
+        "title": "Tesla Plans to Start Shipping Out Cars Made at Shanghai Gigafactory",
+        "publish_date": "09/11/2020",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "As Tesla surges 600% off its 2020 low, meet the next electric car newcomer going public",
+        "publish_date": "09/02/2020",
+        "vader_score_raw": {
+            "neg": 0.014,
+            "neu": 0.909,
+            "pos": 0.077,
+            "compound": 0.9842
+        }
+    },
+    {
+        "title": "Tesla's stock sees biggest one-day drop ever",
+        "publish_date": "09/09/2020",
+        "vader_score_raw": {
+            "neg": 0.043,
+            "neu": 0.851,
+            "pos": 0.106,
+            "compound": 0.8735
+        }
+    },
+    {
+        "title": "Tesla Stock's 21% Drop On Tuesday Is Its Worst In History",
+        "publish_date": "09/08/2020",
+        "vader_score_raw": {
+            "neg": 0.084,
+            "neu": 0.876,
+            "pos": 0.041,
+            "compound": -0.9081
+        }
+    },
+    {
+        "title": "Musk confirms Tesla Nevada factory was target of 'serious' cyberattack",
+        "publish_date": "08/27/2020",
+        "vader_score_raw": {
+            "neg": 0.105,
+            "neu": 0.827,
+            "pos": 0.068,
+            "compound": -0.5499
+        }
+    },
+    {
+        "title": "If You Invested $1,000 In Tesla 10 Years Ago, Here's How Much You'd Have Now",
+        "publish_date": "03/10/2021",
+        "vader_score_raw": {
+            "neg": 0.011,
+            "neu": 0.885,
+            "pos": 0.104,
+            "compound": 0.975
+        }
+    },
+    {
+        "title": "Tesla (TSLA) \u2013 What You Need To Know In The Options Market",
+        "publish_date": "03/10/2021",
+        "vader_score_raw": {
+            "neg": 0.021,
+            "neu": 0.881,
+            "pos": 0.097,
+            "compound": 0.9982
+        }
+    },
+    {
+        "title": "Tesla surges almost 20%, biggest daily rise in a year",
+        "publish_date": "03/09/2021",
+        "vader_score_raw": {
+            "neg": 0.025,
+            "neu": 0.841,
+            "pos": 0.134,
+            "compound": 0.9907
+        }
+    },
+    {
+        "title": "Tesla Stock Update: Meltdown in Tesla Beginning as Forecasted",
+        "publish_date": "03/04/2021",
+        "vader_score_raw": {
+            "neg": 0.101,
+            "neu": 0.857,
+            "pos": 0.042,
+            "compound": -0.9455
+        }
+    },
+    {
+        "title": "Tesla shares in the red for 2021 as bitcoin selloff weighs",
+        "publish_date": "02/23/2021",
+        "vader_score_raw": {
+            "neg": 0.042,
+            "neu": 0.91,
+            "pos": 0.048,
+            "compound": 0.6705
+        }
+    },
+    {
+        "title": "Tesla To Unveil Updated Cybertruck In Coming Quarter",
+        "publish_date": "03/07/2021",
+        "vader_score_raw": {
+            "neg": 0.022,
+            "neu": 0.937,
+            "pos": 0.041,
+            "compound": 0.6333
+        }
+    },
+    {
+        "title": "Tesla loses a third of its value for the third time in a year",
+        "publish_date": "03/08/2021",
+        "vader_score_raw": {
+            "neg": 0.044,
+            "neu": 0.883,
+            "pos": 0.073,
+            "compound": 0.9169
+        }
+    },
+    {
+        "title": "How Tesla and Elon Musk can fight the new EV rivals",
+        "publish_date": "02/24/2021",
+        "vader_score_raw": {
+            "neg": 0.026,
+            "neu": 0.886,
+            "pos": 0.087,
+            "compound": 0.9982
+        }
+    },
+    {
+        "title": "Tesla Former Board Member Says Elon Musk Company Won't Remain 'King Of The Hill In Electric Forever'",
+        "publish_date": "03/02/2021",
+        "vader_score_raw": {
+            "neg": 0.006,
+            "neu": 0.94,
+            "pos": 0.054,
+            "compound": 0.9201
+        }
+    },
+    {
+        "title": "Tesla Is Plugging a Secret Mega-Battery Into the Texas Grid",
+        "publish_date": "08/03/2021",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Tesla turns up heat on rivals with global price cuts",
+        "publish_date": "01/13/2023",
+        "vader_score_raw": {
+            "neg": 0.091,
+            "neu": 0.817,
+            "pos": 0.091,
+            "compound": 0.8957
+        }
+    },
+    {
+        "title": "Analysis: Tesla could face its toughest challenge yet as economy cools",
+        "publish_date": "10/04/2022",
+        "vader_score_raw": {
+            "neg": 0.061,
+            "neu": 0.869,
+            "pos": 0.071,
+            "compound": 0.71
+        }
+    },
+    {
+        "title": "Tesla deliveries miss estimates due to logistical issues, slowing demand",
+        "publish_date": "01/03/2023",
+        "vader_score_raw": {
+            "neg": 0.048,
+            "neu": 0.9,
+            "pos": 0.052,
+            "compound": 0.5468
+        }
+    },
+    {
+        "title": "Tesla recalls almost half a million electric cars over safety issues",
+        "publish_date": "12/31/2021",
+        "vader_score_raw": {
+            "neg": 0.061,
+            "neu": 0.876,
+            "pos": 0.063,
+            "compound": 0.4476
+        }
+    },
+    {
+        "title": "Tesla raises prices for second time in days on rising costs",
+        "publish_date": "03/15/2022",
+        "vader_score_raw": {
+            "neg": 0.022,
+            "neu": 0.933,
+            "pos": 0.044,
+            "compound": 0.7987
+        }
+    },
+    {
+        "title": "Tesla video promoting self-driving was staged, engineer testifies",
+        "publish_date": "01/18/2023",
+        "vader_score_raw": {
+            "neg": 0.09,
+            "neu": 0.87,
+            "pos": 0.04,
+            "compound": -0.9908
+        }
+    },
+    {
+        "title": "Tesla seeks to ease demand concerns over likely 2022 delivery target miss",
+        "publish_date": "10/20/2022",
+        "vader_score_raw": {
+            "neg": 0.054,
+            "neu": 0.837,
+            "pos": 0.109,
+            "compound": 0.9923
+        }
+    },
+    {
+        "title": "Tesla market cap eclipses that of top 5 rival carmakers combined",
+        "publish_date": "10/26/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.924,
+            "pos": 0.076,
+            "compound": 0.8957
+        }
+    },
+    {
+        "title": "Tesla recalls nearly 1.1 million U.S. vehicles to update window reversing software",
+        "publish_date": "11/22/2022",
+        "vader_score_raw": {
+            "neg": 0.047,
+            "neu": 0.907,
+            "pos": 0.046,
+            "compound": 0.1531
+        }
+    },
+    {
+        "title": "Tesla shares tank after U.S. discounts doubled on key models",
+        "publish_date": "12/22/2022",
+        "vader_score_raw": {
+            "neg": 0.068,
+            "neu": 0.862,
+            "pos": 0.07,
+            "compound": 0.6186
+        }
+    },
+    {
+        "title": "Exclusive: Tesla faces U.S. criminal probe over self-driving claims",
+        "publish_date": "10/27/2022",
+        "vader_score_raw": {
+            "neg": 0.086,
+            "neu": 0.839,
+            "pos": 0.076,
+            "compound": -0.7003
+        }
+    },
+    {
+        "title": "Focus: Tesla used car price bubble pops, weighs on new car demand",
+        "publish_date": "12/27/2022",
+        "vader_score_raw": {
+            "neg": 0.06,
+            "neu": 0.863,
+            "pos": 0.077,
+            "compound": 0.9581
+        }
+    },
+    {
+        "title": "Exclusive: Elon Musk wants to cut 10% of Tesla jobs",
+        "publish_date": "06/03/2022",
+        "vader_score_raw": {
+            "neg": 0.089,
+            "neu": 0.855,
+            "pos": 0.055,
+            "compound": -0.974
+        }
+    },
+    {
+        "title": "Tesla recalls 40,000 U.S. vehicles over potential loss of power steering assist",
+        "publish_date": "11/08/2022",
+        "vader_score_raw": {
+            "neg": 0.04,
+            "neu": 0.908,
+            "pos": 0.051,
+            "compound": 0.7194
+        }
+    },
+    {
+        "title": "Exclusive: Tesla to run reduced output in Shanghai in January, plan shows",
+        "publish_date": "12/27/2022",
+        "vader_score_raw": {
+            "neg": 0.026,
+            "neu": 0.933,
+            "pos": 0.041,
+            "compound": 0.8723
+        }
+    },
+    {
+        "title": "Exclusive: Tesla halts most output at Shanghai plant, April sales dive",
+        "publish_date": "05/10/2022",
+        "vader_score_raw": {
+            "neg": 0.038,
+            "neu": 0.919,
+            "pos": 0.043,
+            "compound": 0.5657
+        }
+    },
+    {
+        "title": "Tesla recalls 321,000 U.S. vehicles over rear light issue",
+        "publish_date": "11/21/2022",
+        "vader_score_raw": {
+            "neg": 0.046,
+            "neu": 0.905,
+            "pos": 0.049,
+            "compound": 0.1779
+        }
+    },
+    {
+        "title": "Musk bullish on Tesla sales as price cuts boost demand",
+        "publish_date": "11/27/2023",
+        "vader_score_raw": {
+            "neg": 0.109,
+            "neu": 0.82,
+            "pos": 0.071,
+            "compound": -0.9872
+        }
+    },
+    {
+        "title": "Tesla owners in China protest against surprise price cuts they missed",
+        "publish_date": "01/07/2023",
+        "vader_score_raw": {
+            "neg": 0.082,
+            "neu": 0.866,
+            "pos": 0.052,
+            "compound": -0.9697
+        }
+    },
+    {
+        "title": "Tesla zooms past $1 trillion market cap on bet that the EV future is now",
+        "publish_date": "10/25/2021",
+        "vader_score_raw": {
+            "neg": 0.034,
+            "neu": 0.865,
+            "pos": 0.101,
+            "compound": 0.9958
+        }
+    },
+    {
+        "title": "Tesla cuts China prices by up to 9% as analysts warn of 'price war'",
+        "publish_date": "10/24/2022",
+        "vader_score_raw": {
+            "neg": 0.055,
+            "neu": 0.893,
+            "pos": 0.053,
+            "compound": 0.5922
+        }
+    },
+    {
+        "title": "Tesla falls on growing angst over Musk's focus on Twitter",
+        "publish_date": "12/20/2022",
+        "vader_score_raw": {
+            "neg": 0.118,
+            "neu": 0.821,
+            "pos": 0.061,
+            "compound": -0.9409
+        }
+    },
+    {
+        "title": "Musk tells Tesla workers not to be 'bothered by stock market craziness'",
+        "publish_date": "12/29/2022",
+        "vader_score_raw": {
+            "neg": 0.061,
+            "neu": 0.844,
+            "pos": 0.095,
+            "compound": 0.9336
+        }
+    },
+    {
+        "title": "Tesla sold record 56,006 China-made vehicles in Sept - CPCA",
+        "publish_date": "10/12/2021",
+        "vader_score_raw": {
+            "neg": 0.0,
+            "neu": 0.983,
+            "pos": 0.017,
+            "compound": 0.5106
+        }
+    },
+    {
+        "title": "Tesla Tops Volkswagen to Become Second-Most-Valuable Auto Maker",
+        "publish_date": "01/22/2020",
+        "vader_score_raw": {
+            "neg": 0.024,
+            "neu": 0.892,
+            "pos": 0.085,
+            "compound": 0.9937
+        }
+    },
+    {
+        "title": "Tesla Posts Fourth-Quarter Profit on Record Deliveries",
+        "publish_date": "01/30/2020",
+        "vader_score_raw": {
+            "neg": 0.036,
+            "neu": 0.88,
+            "pos": 0.084,
+            "compound": 0.9926
+        }
+    },
+    {
+        "title": "What if Tesla Is\u2026Just a Car Company?\n",
+        "publish_date": "10/13/2021",
+        "vader_score_raw": {
+            "neg": 0.034,
+            "neu": 0.895,
+            "pos": 0.071,
+            "compound": 0.9979
+        }
+    },
+    {
+        "title": "Elon Musk\u2019s Decision to Slow New Tesla Models Risks Holding Up Growth",
+        "publish_date": "01/28/2022",
+        "vader_score_raw": {
+            "neg": 0.035,
+            "neu": 0.894,
+            "pos": 0.071,
+            "compound": 0.9879
+        }
+    }
+]

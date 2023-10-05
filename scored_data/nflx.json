@@ -1,0 +1,512 @@
+[
+    {
+        "title": "Netflix adds 15.7 million global users in Q1 2020 amid coronavirus pandemic",
+        "publish_date": "04/22/2020",
+        "vader_score_raw": {
+            "neg": 0.022,
+            "neu": 0.913,
+            "pos": 0.066,
+            "compound": 0.962
+        }
+    },
+    {
+        "title": "Netflix to raise $1 billion to fund original content",
+        "publish_date": "04/22/2020",
+        "vader_score_raw": {
+            "neg": 0.047,
+            "neu": 0.889,
+            "pos": 0.064,
+            "compound": 0.5709
+        }
+    },
+    {
+        "title": "Breakingviews - Netflix is still the pointiest FAANG",
+        "publish_date": "07/06/2020",
+        "vader_score_raw": {
+            "neg": 0.058,
+            "neu": 0.849,
+            "pos": 0.093,
+            "compound": 0.9252
+        }
+    },
+    {
+        "title": "Blackstone Snaps Up Studio Lots for a Slice of Streaming Riches",
+        "publish_date": "08/11/2020",
+        "vader_score_raw": {
+            "neg": 0.032,
+            "neu": 0.919,
+            "pos": 0.049,
+            "compound": 0.6597
+        }
+    },
+    {
+        "title": "Netflix co-founder on creative culture: We \u2018manage on the edge of chaos\u2019",
+        "publish_date": "09/08/2020",
+        "vader_score_raw": {
+            "neg": 0.04,
+            "neu": 0.831,
+            "pos": 0.129,
+            "compound": 0.9978
+        }
+    },
+    {
+        "title": "Which FAANG Stock Will Grow The Most By 2025?",
+        "publish_date": "09/06/2020",
+        "vader_score_raw": {
+            "neg": 0.018,
+            "neu": 0.85,
+            "pos": 0.133,
+            "compound": 0.9877
+        }
+    },
+    {
+        "title": "How Netflix\u2019s overseas expansion fueled its explosive growth in subscribers",
+        "publish_date": "01/20/2021",
+        "vader_score_raw": {
+            "neg": 0.009,
+            "neu": 0.848,
+            "pos": 0.143,
+            "compound": 0.9986
+        }
+    },
+    {
+        "title": "Netflix forecasts an end to borrowing binge, shares surge",
+        "publish_date": "01/19/2021",
+        "vader_score_raw": {
+            "neg": 0.046,
+            "neu": 0.884,
+            "pos": 0.07,
+            "compound": 0.9091
+        }
+    },
+    {
+        "title": "Here's How Much Investing $1,000 In Netflix Stock 5 Years Ago Would Be Worth Today",
+        "publish_date": "01/20/2021",
+        "vader_score_raw": {
+            "neg": 0.035,
+            "neu": 0.876,
+            "pos": 0.089,
+            "compound": 0.971
+        }
+    },
+    {
+        "title": "How To Trade Netflix Ahead Of Its Earnings Report Using Options",
+        "publish_date": "01/19/2021",
+        "vader_score_raw": {
+            "neg": 0.022,
+            "neu": 0.88,
+            "pos": 0.097,
+            "compound": 0.9979
+        }
+    },
+    {
+        "title": "'Netflix stock may be dead money,' says analyst",
+        "publish_date": "01/21/2022",
+        "vader_score_raw": {
+            "neg": 0.057,
+            "neu": 0.875,
+            "pos": 0.068,
+            "compound": 0.4205
+        }
+    },
+    {
+        "title": "ETFs Most Exposed To Netflix\u2019s Epic Sell-Off",
+        "publish_date": "01/21/2022",
+        "vader_score_raw": {
+            "neg": 0.021,
+            "neu": 0.877,
+            "pos": 0.102,
+            "compound": 0.9866
+        }
+    },
+    {
+        "title": "\u2018Netflix killers\u2019: How crypto film start-ups are using the blockchain to disrupt Hollywood",
+        "publish_date": "01/30/2022",
+        "vader_score_raw": {
+            "neg": 0.039,
+            "neu": 0.874,
+            "pos": 0.087,
+            "compound": 0.9986
+        }
+    },
+    {
+        "title": "Netflix raises monthly subscription prices in U.S., Canada",
+        "publish_date": "01/14/2022",
+        "vader_score_raw": {
+            "neg": 0.005,
+            "neu": 0.93,
+            "pos": 0.064,
+            "compound": 0.9792
+        }
+    },
+    {
+        "title": "Why Netflix Just Had Its Worst Day in A Decade",
+        "publish_date": "01/23/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix Outlines The Next Phase of Its Sports Strategy",
+        "publish_date": "01/16/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Gloomy Netflix forecast erases much of stock's pandemic gains",
+        "publish_date": "01/21/2022",
+        "vader_score_raw": {
+            "neg": 0.022,
+            "neu": 0.849,
+            "pos": 0.129,
+            "compound": 0.9975
+        }
+    },
+    {
+        "title": "Netflix is testing an awesome new redesign \u2013 see it right here",
+        "publish_date": "02/01/2022",
+        "vader_score_raw": {
+            "neg": 0.02,
+            "neu": 0.885,
+            "pos": 0.095,
+            "compound": 0.9915
+        }
+    },
+    {
+        "title": "Netflix earnings to set the pace for 2022 streaming wars",
+        "publish_date": "01/18/2022",
+        "vader_score_raw": {
+            "neg": 0.044,
+            "neu": 0.88,
+            "pos": 0.076,
+            "compound": 0.9663
+        }
+    },
+    {
+        "title": "Netflix rocked by subscriber loss, may offer cheaper ad-supported plans",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.063,
+            "neu": 0.809,
+            "pos": 0.129,
+            "compound": 0.9964
+        }
+    },
+    {
+        "title": "Netflix heads for worst day in two decades as investors hit 'not for me'",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.071,
+            "neu": 0.821,
+            "pos": 0.108,
+            "compound": 0.972
+        }
+    },
+    {
+        "title": "Investors skeptical of Netflix's plans to crack down on account sharing",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.073,
+            "neu": 0.802,
+            "pos": 0.125,
+            "compound": 0.9749
+        }
+    },
+    {
+        "title": "Netflix Has Finally Hit a Wall. Where Does it Go From Here?",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix Q1 net subscribers unexpectedly decline, revenue misses expectations",
+        "publish_date": "04/19/2022",
+        "vader_score_raw": {
+            "neg": 0.019,
+            "neu": 0.844,
+            "pos": 0.137,
+            "compound": 0.9987
+        }
+    },
+    {
+        "title": "Netflix shareholders sue over subscription slump disclosures",
+        "publish_date": "05/04/2022",
+        "vader_score_raw": {
+            "neg": 0.101,
+            "neu": 0.793,
+            "pos": 0.106,
+            "compound": 0.3818
+        }
+    },
+    {
+        "title": "Netflix is losing billions a year to password sharing. Here\u2019s how it plans to fight back",
+        "publish_date": "04/18/2022",
+        "vader_score_raw": {
+            "neg": 0.066,
+            "neu": 0.852,
+            "pos": 0.082,
+            "compound": 0.8505
+        }
+    },
+    {
+        "title": "Everything You Need to Know About Netflix\u2019s Big Miss",
+        "publish_date": "04/21/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix (NFLX) Down as Much as 39%; Biggest Drop Since 2004",
+        "publish_date": "04/19/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix reverses subscriber slump, shares surge 14%",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.027,
+            "neu": 0.852,
+            "pos": 0.121,
+            "compound": 0.9967
+        }
+    },
+    {
+        "title": "Coming Soon on Netflix: A New Netflix",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.049,
+            "neu": 0.851,
+            "pos": 0.1,
+            "compound": 0.9471
+        }
+    },
+    {
+        "title": "What Netflix Will Look Like in 2023",
+        "publish_date": "10/16/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix ad-supported plan to launch in November at $7 a month",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.023,
+            "neu": 0.904,
+            "pos": 0.073,
+            "compound": 0.9819
+        }
+    },
+    {
+        "title": "Netflix may haul in billions of dollars by selling ads, predicts JPMorgan",
+        "publish_date": "10/10/2022",
+        "vader_score_raw": {
+            "neg": 0.015,
+            "neu": 0.875,
+            "pos": 0.111,
+            "compound": 0.9883
+        }
+    },
+    {
+        "title": "Netflix Q3 earnings beat with streamer adding 2.4M subscribers",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.036,
+            "neu": 0.841,
+            "pos": 0.124,
+            "compound": 0.9951
+        }
+    },
+    {
+        "title": "Netflix Returns to Growth, Saying the Worst of Slowdown Is Over",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix Plans to Launch $7-a-Month Streaming Plan With Advertising",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix will begin charging 'extra user' fees early next year",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.048,
+            "neu": 0.908,
+            "pos": 0.043,
+            "compound": -0.128
+        }
+    },
+    {
+        "title": "Netflix with ads will be available November 3rd for $7 per month",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.043,
+            "neu": 0.879,
+            "pos": 0.078,
+            "compound": 0.8689
+        }
+    },
+    {
+        "title": "When Netflix and HBO Turned on Each Other, They Forged a New Era of Television",
+        "publish_date": "10/28/2022",
+        "vader_score_raw": {
+            "neg": 0.033,
+            "neu": 0.907,
+            "pos": 0.06,
+            "compound": 0.3919
+        }
+    },
+    {
+        "title": "Netflix stock: Why 2 analysts think the streaming giant is still a screaming Sell",
+        "publish_date": "10/11/2022",
+        "vader_score_raw": {
+            "neg": 0.076,
+            "neu": 0.82,
+            "pos": 0.105,
+            "compound": 0.9737
+        }
+    },
+    {
+        "title": "Netflix to Spend $100 Million to Help Underrepresented Communities in Entertainment",
+        "publish_date": "02/26/2021",
+        "vader_score_raw": {
+            "neg": 0.009,
+            "neu": 0.892,
+            "pos": 0.099,
+            "compound": 0.9808
+        }
+    },
+    {
+        "title": "Netflix Raises Subscription Prices in U.S., Canada",
+        "publish_date": "01/14/2022",
+        "vader_score_raw": {
+            "neg": 0.018,
+            "neu": 0.882,
+            "pos": 0.1,
+            "compound": 0.9756
+        }
+    },
+    {
+        "title": "Netflix Tops 200 Million Subscribers for the First Time",
+        "publish_date": "01/19/2021",
+        "vader_score_raw": {
+            "neg": 0.018,
+            "neu": 0.862,
+            "pos": 0.12,
+            "compound": 0.9985
+        }
+    },
+    {
+        "title": "Netflix, Facing Reality Check, Vows to Curb Its Profligate Ways",
+        "publish_date": "04/21/2022",
+        "vader_score_raw": {
+            "neg": 0.031,
+            "neu": 0.874,
+            "pos": 0.094,
+            "compound": 0.9991
+        }
+    },
+    {
+        "title": "Netflix Stock Price Drops 35%, Posting Biggest Fall Since 2004",
+        "publish_date": "04/20/2022",
+        "vader_score_raw": {
+            "neg": 0.046,
+            "neu": 0.869,
+            "pos": 0.084,
+            "compound": 0.9843
+        }
+    },
+    {
+        "title": "Netflix Explores a Version With Ads as Subscriber Base Shrinks",
+        "publish_date": "04/19/2022",
+        "vader_score_raw": {
+            "neg": 0.048,
+            "neu": 0.851,
+            "pos": 0.101,
+            "compound": 0.9923
+        }
+    },
+    {
+        "title": "Netflix\u2019s Password Crackdown Is Coming. Here\u2019s What That Means for Account Sharers",
+        "publish_date": "04/21/2022",
+        "vader_score_raw": {
+            "neg": 0.052,
+            "neu": 0.869,
+            "pos": 0.079,
+            "compound": 0.977
+        }
+    },
+    {
+        "title": "Netflix With Ads Launching as Talks Continue With Studios Over Content",
+        "publish_date": "11/02/2022",
+        "vader_score_raw": {
+            "neg": 0.026,
+            "neu": 0.895,
+            "pos": 0.079,
+            "compound": 0.9956
+        }
+    },
+    {
+        "title": "Netflix\u2019s Ad-Supported Plan Will Launch in November at $6.99 a Month",
+        "publish_date": "10/13/2022",
+        "vader_score_raw": {
+            "neg": 0.02,
+            "neu": 0.915,
+            "pos": 0.065,
+            "compound": 0.9829
+        }
+    },
+    {
+        "title": "Netflix Gains 2.4 Million New Subscribers, Reversing Trend",
+        "publish_date": "10/18/2022",
+        "vader_score_raw": {
+            "neg": 0.015,
+            "neu": 0.823,
+            "pos": 0.162,
+            "compound": 0.9995
+        }
+    },
+    {
+        "title": "Netflix Seeks Ways to Get Subscribers to Return After Visits Decline",
+        "publish_date": "10/17/2022",
+        "vader_score_raw": {
+            "neg": 0.011,
+            "neu": 0.906,
+            "pos": 0.083,
+            "compound": 0.997
+        }
+    }
+]
