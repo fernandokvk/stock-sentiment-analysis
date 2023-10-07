@@ -5,6 +5,9 @@ from nltk.stem import WordNetLemmatizer
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
+import add_stock_data
+
 nltk.download('wordnet')
 nltk.download('stopwords')
 
@@ -89,11 +92,4 @@ for ticket in ticket_data:
         }
         scored_data[ticket].append(scored_article)
 
-output_directory = "scored_data"
-os.makedirs(output_directory, exist_ok=True)
-for ticket, articles in scored_data.items():
-    if articles:
-        ticket_file_path = os.path.join(output_directory, f"{ticket}.json")
-        with open(ticket_file_path, 'w') as output_file:
-            json.dump(articles, output_file, indent=4)
-        print(f"Data for {ticket} written to {ticket_file_path}")
+add_stock_data.fill_stock_data(scored_data)
