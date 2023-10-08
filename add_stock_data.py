@@ -1,11 +1,10 @@
 import json
 import os
-import pytz
 import pandas as pd
 import yfinance as yf
 
 tickers = ["NVDA", "NFLX", "TSLA","^GSPC"]
-colors = ["green", "red", "blue", "purple" ]# Added "^GSPC" for S&P 500
+colors = ["green", "red", "blue", "purple" ]
 deltas = [-7, -5, -3, 0, 3, 5, 7]
 ticker_colors = {ticker: color for ticker, color in zip(tickers, colors)}
 period = "5y"
@@ -16,30 +15,19 @@ def fetch_data(ticker, period):
     return stock.history(period=period)
 
 def fetch_ratio_on_date(ticker, date_str, delta, delta_plus):
-    # Convert the date string from 'mm/dd/YYYY' to 'YYYY-MM-DD' format
     date = pd.to_datetime(date_str, format='%m/%d/%Y')
-
-    # Offset the date by the specified number of days
     desired_date = (date + pd.DateOffset(days=delta + delta_plus)).tz_localize('America/New_York')
 
-
-    # print(desired_date)
-
     try:
-        # Use the loc method to select the row for the desired date and stock symbol
         selected_row = tickers_data[ticker].loc[desired_date]
 
-        # Extract the opening and closing prices from the selected row
         opening_price = selected_row['Open']
         closing_price = selected_row['Close']
 
-        # Calculate the price difference (Delta)
         #price_delta = closing_price - opening_price
 
-        # Calculate the 7-day rolling average of closing prices
         rolling_average = tickers_data[ticker]['Close'].rolling(window=7).mean().loc[desired_date]
 
-        # Calculate the ratio of Delta to the rolling average
         ratio = (closing_price - rolling_average) / rolling_average
         # print("closing_price " + str(closing_price))
         # print("avg " + str(rolling_average))
@@ -48,10 +36,8 @@ def fetch_ratio_on_date(ticker, date_str, delta, delta_plus):
 
     except KeyError:
       if delta_plus >= 7:
-          # If delta is greater than or equal to 7, stop the recursion
           return None
       else:
-            # Otherwise, increment delta by 1 and retry
           return fetch_ratio_on_date(ticker, date_str, delta, delta_plus + 1)
 
 def dump_data(data):
@@ -72,16 +58,8 @@ def fill_stock_data(data):
     for ticket in data:
         for article in data[ticket]:
             for delta in deltas:
-                # Check if 'stock_ratio' key exists in the article dictionary
                 if "stock_ratio" not in article:
-                    # If it doesn't exist, create it as an empty dictionary
                     article["stock_ratio"] = {}
-                # Update the value associated with the 'str(delta)' key
                 article["stock_ratio"][str(delta)] = fetch_ratio_on_date(ticket.upper(), article["publish_date"], delta, 0)
 
     dump_data(data)
-    return None
-
-
-
-

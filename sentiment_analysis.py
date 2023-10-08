@@ -1,6 +1,7 @@
 import json
 import os
 import nltk
+from textblob import TextBlob
 from nltk.stem import WordNetLemmatizer
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
@@ -67,8 +68,13 @@ for ticket in ticket_data:
 
 def parse_text(text):
     vader_analyzer = SentimentIntensityAnalyzer()
-    return vader_analyzer.polarity_scores(text)
-
+    result =  vader_analyzer.polarity_scores(text)
+    # blob = TextBlob(text)
+    # sentiment = blob.sentiment
+    # result = {
+    #     "compound": sentiment.polarity
+    # }
+        return result
 
 scored_data = {
     'nflx': [],

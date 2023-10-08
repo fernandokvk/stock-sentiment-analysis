@@ -1,0 +1,1302 @@
+[
+    {
+        "title": "Nvidia tumbles 19% after missing on revenue and guidance",
+        "publish_date": "11/16/2018",
+        "vader_score_raw": {
+            "compound": -0.17645916005291007
+        },
+        "vader_score_lemmatized": {
+            "compound": -0.16940079365079366
+        },
+        "vader_score_steemed": {
+            "compound": -0.24320436507936505
+        },
+        "vader_score_stopwords": {
+            "compound": -0.1828733766233766
+        },
+        "stock_ratio": {
+            "-7": -0.02809677155256177,
+            "-5": -0.08670503952363437,
+            "-3": -0.02919700367725302,
+            "0": -0.1564726566281564,
+            "3": -0.22277715306834392,
+            "5": -0.157129585932076,
+            "7": -0.11546837133203955
+        }
+    },
+    {
+        "title": "NVIDIA adds 'Control' and other games to GeForce Now",
+        "publish_date": "03/27/2020",
+        "vader_score_raw": {
+            "compound": 0.10307017543859649
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.0018333333333333335
+        },
+        "vader_score_steemed": {
+            "compound": -0.043560606060606064
+        },
+        "vader_score_stopwords": {
+            "compound": 0.11145833333333334
+        },
+        "stock_ratio": {
+            "-7": -0.03491785044348753,
+            "-5": 6.0368336929660857e-05,
+            "-3": 0.1651081054647607,
+            "0": 0.0812442264830837,
+            "3": 0.10085877405830616,
+            "5": -0.04250920638613577,
+            "7": -0.041670116068390564
+        }
+    },
+    {
+        "title": "Exclusive: Nvidia offers new advanced chip for China that meets U.S. export controls",
+        "publish_date": "11/07/2022",
+        "vader_score_raw": {
+            "compound": 0.11972383408553622
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.11722958754208755
+        },
+        "vader_score_steemed": {
+            "compound": 0.0032625360750360727
+        },
+        "vader_score_stopwords": {
+            "compound": 0.1285016835016835
+        },
+        "stock_ratio": {
+            "-7": 0.029979625082204517,
+            "-5": -0.009558273316677487,
+            "-3": 0.04476728122872732,
+            "0": 0.043096224584437175,
+            "3": 0.11111115043440024,
+            "5": 0.08419579907280492,
+            "7": 0.08419579907280492
+        }
+    },
+    {
+        "title": "Nvidia says it is working with Microsoft to build 'massive' cloud AI computer",
+        "publish_date": "11/16/2022",
+        "vader_score_raw": {
+            "compound": 0.09876728110599078
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.09278138528138527
+        },
+        "vader_score_steemed": {
+            "compound": 0.1679107142857143
+        },
+        "vader_score_stopwords": {
+            "compound": 0.05784391534391534
+        },
+        "stock_ratio": {
+            "-7": -0.006040176038688853,
+            "-5": 0.11683433630548938,
+            "-3": 0.08419579907280492,
+            "0": 0.01869637588165187,
+            "3": -0.039264963056810556,
+            "5": -0.039264963056810556,
+            "7": 0.03673254074324973
+        }
+    },
+    {
+        "title": "Nvidia third-quarter revenue up on strong data center demand",
+        "publish_date": "11/16/2022",
+        "vader_score_raw": {
+            "compound": 0.11761664261664262
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.11761664261664262
+        },
+        "vader_score_steemed": {
+            "compound": 0.134837962962963
+        },
+        "vader_score_stopwords": {
+            "compound": 0.08747947454844004
+        },
+        "stock_ratio": {
+            "-7": -0.006040176038688853,
+            "-5": 0.11683433630548938,
+            "-3": 0.08419579907280492,
+            "0": 0.01869637588165187,
+            "3": -0.039264963056810556,
+            "5": -0.039264963056810556,
+            "7": 0.03673254074324973
+        }
+    },
+    {
+        "title": "Nvidia earnings: Revenue beats expectations, bottom line falls short",
+        "publish_date": "11/16/2022",
+        "vader_score_raw": {
+            "compound": 0.13121013086530328
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.12683645983645983
+        },
+        "vader_score_steemed": {
+            "compound": 0.11454040404040404
+        },
+        "vader_score_stopwords": {
+            "compound": 0.10252705627705627
+        },
+        "stock_ratio": {
+            "-7": -0.006040176038688853,
+            "-5": 0.11683433630548938,
+            "-3": 0.08419579907280492,
+            "0": 0.01869637588165187,
+            "3": -0.039264963056810556,
+            "5": -0.039264963056810556,
+            "7": 0.03673254074324973
+        }
+    },
+    {
+        "title": "Should You Invest in NVIDIA Corporation (NVDA)?",
+        "publish_date": "11/02/2022",
+        "vader_score_raw": {
+            "compound": 0.15723964382500966
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.15723964382500966
+        },
+        "vader_score_steemed": {
+            "compound": 0.08009438009438008
+        },
+        "vader_score_stopwords": {
+            "compound": 0.14917133520074694
+        },
+        "stock_ratio": {
+            "-7": 0.03245872050504212,
+            "-5": 0.07090878201192125,
+            "-3": 0.029979625082204517,
+            "0": -0.009558273316677487,
+            "3": 0.043096224584437175,
+            "5": 0.043096224584437175,
+            "7": -0.006040176038688853
+        }
+    },
+    {
+        "title": "Nvidia (NVDA) Gains As Market Dips: What You Should Know",
+        "publish_date": "11/01/2022",
+        "vader_score_raw": {
+            "compound": 0.029630092130092132
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.02853268131045909
+        },
+        "vader_score_steemed": {
+            "compound": 0.007372598162071861
+        },
+        "vader_score_stopwords": {
+            "compound": 0.03392640692640692
+        },
+        "stock_ratio": {
+            "-7": 0.07406341158842085,
+            "-5": 0.0404882457525002,
+            "-3": 0.029979625082204517,
+            "0": 0.021496356945625246,
+            "3": 0.04476728122872732,
+            "5": 0.043096224584437175,
+            "7": 0.05659568147577761
+        }
+    },
+    {
+        "title": "Nvidia\u2019s Rebound Hides Tough Reality for Chipmakers",
+        "publish_date": "11/15/2022",
+        "vader_score_raw": {
+            "compound": 0.10303030303030304
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.1446969696969697
+        },
+        "vader_score_steemed": {
+            "compound": 0.21515151515151518
+        },
+        "vader_score_stopwords": {
+            "compound": 0.07363636363636364
+        },
+        "stock_ratio": {
+            "-7": 0.05659568147577761,
+            "-5": 0.11111115043440024,
+            "-3": 0.08419579907280492,
+            "0": 0.0830416641979775,
+            "3": -0.037229801672363144,
+            "5": -0.039264963056810556,
+            "7": 0.008570473863071639
+        }
+    },
+    {
+        "title": "Here's Why NVIDIA (NASDAQ:NVDA) Has Caught The Eye Of Investors",
+        "publish_date": "10/29/2022",
+        "vader_score_raw": {
+            "compound": 0.21286139455782319
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.21286139455782319
+        },
+        "vader_score_steemed": {
+            "compound": 0.16344086021505375
+        },
+        "vader_score_stopwords": {
+            "compound": 0.2100045787545788
+        },
+        "stock_ratio": {
+            "-7": 0.04503977573633721,
+            "-5": 0.04503977573633721,
+            "-3": 0.03245872050504212,
+            "0": 0.029979625082204517,
+            "3": 0.021496356945625246,
+            "5": 0.0038575231956001262,
+            "7": 0.043096224584437175
+        }
+    },
+    {
+        "title": "Nvidia Is Affordable for the First Time in Years",
+        "publish_date": "11/07/2022",
+        "vader_score_raw": {
+            "compound": 0.07868625609191651
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.07722910320132546
+        },
+        "vader_score_steemed": {
+            "compound": 0.047362289562289564
+        },
+        "vader_score_stopwords": {
+            "compound": 0.0864833206009677
+        },
+        "stock_ratio": {
+            "-7": 0.029979625082204517,
+            "-5": -0.009558273316677487,
+            "-3": 0.04476728122872732,
+            "0": 0.043096224584437175,
+            "3": 0.11111115043440024,
+            "5": 0.08419579907280492,
+            "7": 0.08419579907280492
+        }
+    },
+    {
+        "title": "Nvidia Sales Beat Estimates as Data-Center Business Fuels Growth",
+        "publish_date": "11/06/2022",
+        "vader_score_raw": {
+            "compound": 0.10303030303030304
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.1446969696969697
+        },
+        "vader_score_steemed": {
+            "compound": 0.21515151515151518
+        },
+        "vader_score_stopwords": {
+            "compound": 0.07363636363636364
+        },
+        "stock_ratio": {
+            "-7": 0.029979625082204517,
+            "-5": 0.021496356945625246,
+            "-3": 0.0038575231956001262,
+            "0": 0.043096224584437175,
+            "3": -0.006040176038688853,
+            "5": 0.11683433630548938,
+            "7": 0.08419579907280492
+        }
+    },
+    {
+        "title": "Will NVIDIA Corporation (NVDA) Bounce Back?",
+        "publish_date": "11/08/2022",
+        "vader_score_raw": {
+            "compound": 0.1582451499118166
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.14733169129720855
+        },
+        "vader_score_steemed": {
+            "compound": 0.10875000000000001
+        },
+        "vader_score_stopwords": {
+            "compound": 0.14772256728778468
+        },
+        "stock_ratio": {
+            "-7": 0.021496356945625246,
+            "-5": 0.0038575231956001262,
+            "-3": 0.043096224584437175,
+            "0": 0.05659568147577761,
+            "3": 0.11683433630548938,
+            "5": 0.08419579907280492,
+            "7": 0.0830416641979775
+        }
+    },
+    {
+        "title": "Explainer: Why are Nvidia's shares soaring and what is its role in the AI boom?",
+        "publish_date": "06/14/2023",
+        "vader_score_raw": {
+            "compound": 0.07496134817563388
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.08491975504170626
+        },
+        "vader_score_steemed": {
+            "compound": 0.04403450085268267
+        },
+        "vader_score_stopwords": {
+            "compound": 0.050667903525046375
+        },
+        "stock_ratio": {
+            "-7": -0.03669503879447849,
+            "-5": -0.0009966580447969345,
+            "-3": 0.018413932958852602,
+            "0": 0.0869355951291695,
+            "3": 0.052267468621981186,
+            "5": 0.052267468621981186,
+            "7": 0.018992293139857012
+        }
+    },
+    {
+        "title": "Nvidia shares soar nearly 30% as sales forecast jumps and AI booms",
+        "publish_date": "05/24/2023",
+        "vader_score_raw": {
+            "compound": 0.19981765709038438
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.1939406671759613
+        },
+        "vader_score_steemed": {
+            "compound": 0.15570383639349156
+        },
+        "vader_score_stopwords": {
+            "compound": 0.1536147186147186
+        },
+        "stock_ratio": {
+            "-7": 0.04206835607216456,
+            "-5": 0.05112295474513735,
+            "-3": 0.035246402822800345,
+            "0": -0.004512497148062339,
+            "3": 0.1664872555096856,
+            "5": 0.1664872555096856,
+            "7": 0.07103484180576251
+        }
+    },
+    {
+        "title": "Why Nvidia is suddenly one of the most valuable companies in the world",
+        "publish_date": "05/25/2023",
+        "vader_score_raw": {
+            "compound": 0.12070388485972904
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.10977123917748918
+        },
+        "vader_score_steemed": {
+            "compound": 0.11633986549165119
+        },
+        "vader_score_stopwords": {
+            "compound": 0.06515591752879889
+        },
+        "stock_ratio": {
+            "-7": 0.07735210727135826,
+            "-5": 0.035246402822800345,
+            "-3": 0.035246402822800345,
+            "0": 0.18951946960981553,
+            "3": 0.1664872555096856,
+            "5": 0.1664872555096856,
+            "7": 0.08802630782663767
+        }
+    },
+    {
+        "title": "Chip giant Nvidia nears trillion-dollar status on AI bet",
+        "publish_date": "05/25/2023",
+        "vader_score_raw": {
+            "compound": 0.09280092592592595
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.08759009009009011
+        },
+        "vader_score_steemed": {
+            "compound": 0.08802028218694885
+        },
+        "vader_score_stopwords": {
+            "compound": 0.05235119047619047
+        },
+        "stock_ratio": {
+            "-7": 0.07735210727135826,
+            "-5": 0.035246402822800345,
+            "-3": 0.035246402822800345,
+            "0": 0.18951946960981553,
+            "3": 0.1664872555096856,
+            "5": 0.1664872555096856,
+            "7": 0.08802630782663767
+        }
+    },
+    {
+        "title": "Nvidia joins tech titans in trillion-dollar club",
+        "publish_date": "05/30/2023",
+        "vader_score_raw": {
+            "compound": 0.00833333333333334
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.027777777777777776
+        },
+        "vader_score_steemed": {
+            "compound": 0.1069047619047619
+        },
+        "vader_score_stopwords": {
+            "compound": -0.05208333333333333
+        },
+        "stock_ratio": {
+            "-7": 0.007816056973525066,
+            "-5": 0.18951946960981553,
+            "-3": 0.1664872555096856,
+            "0": 0.1664872555096856,
+            "3": 0.0407665978757061,
+            "5": 0.003873496721046212,
+            "7": -0.011814623643783622
+        }
+    },
+    {
+        "title": "Nvidia Nailed Bet on AI Trend in Surge Toward $1 Trillion",
+        "publish_date": "05/26/2023",
+        "vader_score_raw": {
+            "compound": 0.10104806778587269
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.10511310843627918
+        },
+        "vader_score_steemed": {
+            "compound": 0.09349911452184181
+        },
+        "vader_score_stopwords": {
+            "compound": 0.06204263128176174
+        },
+        "stock_ratio": {
+            "-7": 0.05112295474513735,
+            "-5": 0.035246402822800345,
+            "-3": 0.007816056973525066,
+            "0": 0.1737287815970571,
+            "3": 0.1664872555096856,
+            "5": 0.07103484180576251,
+            "7": 0.0407665978757061
+        }
+    },
+    {
+        "title": "Nvidia stock explodes after 'guidance for the ages': What Wall Street is saying",
+        "publish_date": "05/25/2023",
+        "vader_score_raw": {
+            "compound": 0.10320511664261667
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.10042148490778631
+        },
+        "vader_score_steemed": {
+            "compound": 0.074412987012987
+        },
+        "vader_score_stopwords": {
+            "compound": 0.08759303868174836
+        },
+        "stock_ratio": {
+            "-7": 0.07735210727135826,
+            "-5": 0.035246402822800345,
+            "-3": 0.035246402822800345,
+            "0": 0.18951946960981553,
+            "3": 0.1664872555096856,
+            "5": 0.1664872555096856,
+            "7": 0.08802630782663767
+        }
+    },
+    {
+        "title": "If You Invested $1000 in Nvidia a Decade Ago, This is How Much It'd Be Worth Now",
+        "publish_date": "05/24/2023",
+        "vader_score_raw": {
+            "compound": 0.11750186011904767
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.11569413919413925
+        },
+        "vader_score_steemed": {
+            "compound": 0.07053366174055829
+        },
+        "vader_score_stopwords": {
+            "compound": 0.11959975369458131
+        },
+        "stock_ratio": {
+            "-7": 0.04206835607216456,
+            "-5": 0.05112295474513735,
+            "-3": 0.035246402822800345,
+            "0": -0.004512497148062339,
+            "3": 0.1664872555096856,
+            "5": 0.1664872555096856,
+            "7": 0.07103484180576251
+        }
+    },
+    {
+        "title": "There\u2019s an AI war, and Nvidia is the only arms dealer: Analyst",
+        "publish_date": "05/25/2023",
+        "vader_score_raw": {
+            "compound": 0.12807971014492753
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.12274305555555554
+        },
+        "vader_score_steemed": {
+            "compound": 0.16102941176470587
+        },
+        "vader_score_stopwords": {
+            "compound": 0.10585585585585586
+        },
+        "stock_ratio": {
+            "-7": 0.07735210727135826,
+            "-5": 0.035246402822800345,
+            "-3": 0.035246402822800345,
+            "0": 0.18951946960981553,
+            "3": 0.1664872555096856,
+            "5": 0.1664872555096856,
+            "7": 0.08802630782663767
+        }
+    },
+    {
+        "title": "Investors who showed Q1 bets on Nvidia may have got boost as it joined $1 trillion club",
+        "publish_date": "05/30/2023",
+        "vader_score_raw": {
+            "compound": 0.0750631313131313
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.0750631313131313
+        },
+        "vader_score_steemed": {
+            "compound": 0.09045589826839827
+        },
+        "vader_score_stopwords": {
+            "compound": 0.08307575757575757
+        },
+        "stock_ratio": {
+            "-7": 0.007816056973525066,
+            "-5": 0.18951946960981553,
+            "-3": 0.1664872555096856,
+            "0": 0.1664872555096856,
+            "3": 0.0407665978757061,
+            "5": 0.003873496721046212,
+            "7": -0.011814623643783622
+        }
+    },
+    {
+        "title": "Nvidia is not the only firm cashing in on the AI gold rush",
+        "publish_date": "05/29/2023",
+        "vader_score_raw": {
+            "compound": 0.07154077572259396
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.07212041285394585
+        },
+        "vader_score_steemed": {
+            "compound": 0.06824299002356551
+        },
+        "vader_score_stopwords": {
+            "compound": 0.03467896058447238
+        },
+        "stock_ratio": {
+            "-7": 0.035246402822800345,
+            "-5": -0.004512497148062339,
+            "-3": 0.1737287815970571,
+            "0": 0.1664872555096856,
+            "3": 0.08802630782663767,
+            "5": 0.003873496721046212,
+            "7": 0.003873496721046212
+        }
+    },
+    {
+        "title": "Nvidia CEO: \u2018We don\u2019t have any magic bullets\u2019 to deal with chip shortage",
+        "publish_date": "11/10/2021",
+        "vader_score_raw": {
+            "compound": 0.1745589826839827
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.16624665017522164
+        },
+        "vader_score_steemed": {
+            "compound": 0.10060160427807487
+        },
+        "vader_score_stopwords": {
+            "compound": 0.1292696550761067
+        },
+        "stock_ratio": {
+            "-7": 0.043047054659280805,
+            "-5": 0.10258517909521103,
+            "-3": 0.10720415961017357,
+            "0": 0.013470932887887421,
+            "3": -0.006156683013253787,
+            "5": -0.006156683013253787,
+            "7": -0.02641828903898517
+        }
+    },
+    {
+        "title": "Nvidia expects first-quarter sales to exceed $5.3 bln",
+        "publish_date": "04/12/2021",
+        "vader_score_raw": {
+            "compound": 0.0898550724637681
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.07466666666666667
+        },
+        "vader_score_steemed": {
+            "compound": 0.08268398268398268
+        },
+        "vader_score_stopwords": {
+            "compound": 0.05925925925925926
+        },
+        "stock_ratio": {
+            "-7": 0.060324674097615646,
+            "-5": 0.04245436035020926,
+            "-3": 0.029942941340859494,
+            "0": 0.06750969332952364,
+            "3": 0.07414641611477973,
+            "5": -0.004118878088836437,
+            "7": -0.004118878088836437
+        }
+    },
+    {
+        "title": "Nvidia is on top of the world, but its rivals are gaining steam",
+        "publish_date": "11/10/2021",
+        "vader_score_raw": {
+            "compound": 0.20907676387939542
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.17114751787165575
+        },
+        "vader_score_steemed": {
+            "compound": 0.09095503647586976
+        },
+        "vader_score_stopwords": {
+            "compound": 0.16178626458287482
+        },
+        "stock_ratio": {
+            "-7": 0.043047054659280805,
+            "-5": 0.10258517909521103,
+            "-3": 0.10720415961017357,
+            "0": 0.013470932887887421,
+            "3": -0.006156683013253787,
+            "5": -0.006156683013253787,
+            "7": -0.02641828903898517
+        }
+    },
+    {
+        "title": "U.S. near deal for Nvidia supercomputer as it waits for delayed Intel machine -sources",
+        "publish_date": "08/24/2021",
+        "vader_score_raw": {
+            "compound": 0.14456018518518518
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.13477777777777777
+        },
+        "vader_score_steemed": {
+            "compound": 0.07528659611992944
+        },
+        "vader_score_stopwords": {
+            "compound": 0.17045454545454544
+        },
+        "stock_ratio": {
+            "-7": -0.023129719176877134,
+            "-5": 0.003969954166332744,
+            "-3": 0.08850778969061063,
+            "0": 0.06818703537999736,
+            "3": 0.04739495123922952,
+            "5": 0.03012224829129524,
+            "7": 0.006277501807040834
+        }
+    },
+    {
+        "title": "Nvidia launches new products to plug cars, factories into its Omniverse",
+        "publish_date": "11/09/2021",
+        "vader_score_raw": {
+            "compound": 0.05352272727272729
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.0465415019762846
+        },
+        "vader_score_steemed": {
+            "compound": 0.016010551948051944
+        },
+        "vader_score_stopwords": {
+            "compound": 0.06291866028708136
+        },
+        "stock_ratio": {
+            "-7": 0.05561774164264052,
+            "-5": 0.13629055463212097,
+            "-3": 0.10720415961017357,
+            "0": 0.07385412124128642,
+            "3": 0.0069915720870927555,
+            "5": -0.006156683013253787,
+            "7": -0.002392275604293131
+        }
+    },
+    {
+        "title": "Nvidia metaverse future bright even as Arm may slip from grasp",
+        "publish_date": "12/03/2021",
+        "vader_score_raw": {
+            "compound": 0.1613117283950617
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.1613117283950617
+        },
+        "vader_score_steemed": {
+            "compound": 0.1912078373015873
+        },
+        "vader_score_stopwords": {
+            "compound": 0.12351190476190477
+        },
+        "stock_ratio": {
+            "-7": -0.00576635948775594,
+            "-5": 0.03415876396124186,
+            "-3": 0.008002978335994181,
+            "0": -0.04283938978565809,
+            "3": -0.05217882114966179,
+            "5": 0.007079065277063649,
+            "7": -0.029435743262433024
+        }
+    },
+    {
+        "title": "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers",
+        "publish_date": "04/21/2021",
+        "vader_score_raw": {
+            "compound": 0.10497802702348163
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.10632554536966309
+        },
+        "vader_score_steemed": {
+            "compound": 0.07116191185863316
+        },
+        "vader_score_stopwords": {
+            "compound": 0.09582577061492732
+        },
+        "stock_ratio": {
+            "-7": 0.03937807139856661,
+            "-5": 0.04166409644490842,
+            "-3": -0.004118878088836437,
+            "0": -0.01263764795658177,
+            "3": 0.008812898807220203,
+            "5": 0.008812898807220203,
+            "7": 0.0014375273693226771
+        }
+    },
+    {
+        "title": "Arm CEO says Nvidia merger better than going public",
+        "publish_date": "07/02/2021",
+        "vader_score_raw": {
+            "compound": -0.017500000000000005
+        },
+        "vader_score_lemmatized": {
+            "compound": -0.017500000000000005
+        },
+        "vader_score_steemed": {
+            "compound": -0.021804511278195483
+        },
+        "vader_score_stopwords": {
+            "compound": 0.01176470588235294
+        },
+        "stock_ratio": {
+            "-7": 0.009956147679352299,
+            "-5": 0.050014493676294826,
+            "-3": 0.04135921349569531,
+            "0": 0.03209242092089849,
+            "3": 0.03166237275286657,
+            "5": 0.005774779046814389,
+            "7": -0.009687744670209737
+        }
+    },
+    {
+        "title": "Nvidia sets 4-for-1 stock split, shares rise",
+        "publish_date": "05/21/2021",
+        "vader_score_raw": {
+            "compound": 0.018333333333333333
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.03888888888888889
+        },
+        "vader_score_steemed": {
+            "compound": 0.12414965986394558
+        },
+        "vader_score_stopwords": {
+            "compound": -0.10208333333333333
+        },
+        "stock_ratio": {
+            "-7": 0.0012755788570988208,
+            "-5": -0.0005845365965529522,
+            "-3": -0.0031472107078598325,
+            "0": 0.05195230986634623,
+            "3": 0.07450624031262613,
+            "5": 0.05021234915231322,
+            "7": 0.05000181807238472
+        }
+    },
+    {
+        "title": "NVIDIA (NVDA) Spikes 5.6% on Upbeat Q1 Revenue Forecast",
+        "publish_date": "04/30/2021",
+        "vader_score_raw": {
+            "compound": 0.20053540798823824
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.20053540798823824
+        },
+        "vader_score_steemed": {
+            "compound": 0.15102675102675103
+        },
+        "vader_score_stopwords": {
+            "compound": 0.1899675324675325
+        },
+        "stock_ratio": {
+            "-7": -0.011123583317352448,
+            "-5": 0.008812898807220203,
+            "-3": 0.007518537261061229,
+            "0": -0.014258376253922993,
+            "3": -0.025480316477682154,
+            "5": -0.03277681426122273,
+            "7": 0.0035787794517905427
+        }
+    },
+    {
+        "title": "EU regulators pause investigation into Nvidia, ARM deal",
+        "publish_date": "12/06/2021",
+        "vader_score_raw": {
+            "compound": 0.03333333333333333
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.030952380952380953
+        },
+        "vader_score_steemed": {
+            "compound": 0.1142857142857143
+        },
+        "vader_score_stopwords": {
+            "compound": -0.11851851851851852
+        },
+        "stock_ratio": {
+            "-7": 0.03415876396124186,
+            "-5": -0.02350756858810497,
+            "-3": -0.04283938978565809,
+            "0": -0.05217882114966179,
+            "3": -0.025585071512673786,
+            "5": -0.07812219465868446,
+            "7": -0.07812219465868446
+        }
+    },
+    {
+        "title": "Leaked NVIDIA Hash Rate for Upcoming GPU Sparks Mining Questions",
+        "publish_date": "04/23/2021",
+        "vader_score_raw": {
+            "compound": 0.20964035964035965
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.20187590187590188
+        },
+        "vader_score_steemed": {
+            "compound": 0.24686868686868685
+        },
+        "vader_score_stopwords": {
+            "compound": 0.18544372294372294
+        },
+        "stock_ratio": {
+            "-7": 0.04166409644490842,
+            "-5": -0.004118878088836437,
+            "-3": -0.02344406959245391,
+            "0": -0.011123583317352448,
+            "3": 0.008812898807220203,
+            "5": 0.0014375273693226771,
+            "7": -0.014258376253922993
+        }
+    },
+    {
+        "title": "NVIDIA's Shield TV Pro streamer drops back to $180",
+        "publish_date": "12/13/2021",
+        "vader_score_raw": {
+            "compound": 0.39197530864197533
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.4032051282051282
+        },
+        "vader_score_steemed": {
+            "compound": 0.3659722222222222
+        },
+        "vader_score_stopwords": {
+            "compound": 0.4449275362318841
+        },
+        "stock_ratio": {
+            "-7": -0.05217882114966179,
+            "-5": 0.007079065277063649,
+            "-3": -0.029435743262433024,
+            "0": -0.07812219465868446,
+            "3": -0.04401556060090185,
+            "5": -0.034959401686085384,
+            "7": -0.034959401686085384
+        }
+    },
+    {
+        "title": "The latest version of NVIDIA's DLSS technology is better at rendering moving objects",
+        "publish_date": "11/16/2021",
+        "vader_score_raw": {
+            "compound": 0.22380952380952382
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.15556722689075628
+        },
+        "vader_score_steemed": {
+            "compound": 0.1621173469387755
+        },
+        "vader_score_stopwords": {
+            "compound": 0.19693877551020408
+        },
+        "stock_ratio": {
+            "-7": 0.07385412124128642,
+            "-5": 0.025397509187838393,
+            "-3": -0.006156683013253787,
+            "0": -0.002392275604293131,
+            "3": 0.07428497270466601,
+            "5": 0.03324321311102006,
+            "7": 0.02006418409981854
+        }
+    },
+    {
+        "title": "Nvidia's rally turbo charged by 'metaverse', valuation breaches $800 bln",
+        "publish_date": "11/18/2021",
+        "vader_score_raw": {
+            "compound": 0.1547027972027972
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.1547027972027972
+        },
+        "vader_score_steemed": {
+            "compound": 0.203843537414966
+        },
+        "vader_score_stopwords": {
+            "compound": 0.060382775119617225
+        },
+        "stock_ratio": {
+            "-7": 0.025397509187838393,
+            "-5": -0.006156683013253787,
+            "-3": -0.006156683013253787,
+            "0": 0.04882625208215482,
+            "3": 0.03324321311102006,
+            "5": 0.02006418409981854,
+            "7": -0.00576635948775594
+        }
+    },
+    {
+        "title": "Here's How Long It Took Nvidia To Reach A $100B Market Cap",
+        "publish_date": "05/21/2020",
+        "vader_score_raw": {
+            "compound": 0.1568181818181818
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.14301424382069539
+        },
+        "vader_score_steemed": {
+            "compound": 0.12083825265643446
+        },
+        "vader_score_stopwords": {
+            "compound": 0.1499158249158249
+        },
+        "stock_ratio": {
+            "-7": 0.030353227044434106,
+            "-5": 0.07966845465849806,
+            "-3": 0.07966845465849806,
+            "0": 0.030611305617571093,
+            "3": -0.008312081585814252,
+            "5": -0.008312081585814252,
+            "7": -0.03095894097518292
+        }
+    },
+    {
+        "title": "Nvidia eclipses Intel as most valuable U.S. chipmaker",
+        "publish_date": "07/08/2020",
+        "vader_score_raw": {
+            "compound": 0.08510101010101011
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.09191176470588236
+        },
+        "vader_score_steemed": {
+            "compound": 0.14810606060606063
+        },
+        "vader_score_stopwords": {
+            "compound": 0.05119047619047618
+        },
+        "stock_ratio": {
+            "-7": 0.017568366265262883,
+            "-5": 0.03845515741995862,
+            "-3": 0.03845515741995862,
+            "0": 0.05526287687866745,
+            "3": -0.003032024960851449,
+            "5": -0.003032024960851449,
+            "7": -0.0019759864843731383
+        }
+    },
+    {
+        "title": "Is Nvidia the Best Blockchain Stock?",
+        "publish_date": "11/25/2020",
+        "vader_score_raw": {
+            "compound": 0.11430002792906017
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.10593812272383701
+        },
+        "vader_score_steemed": {
+            "compound": 0.14897309130263678
+        },
+        "vader_score_stopwords": {
+            "compound": 0.09144786373047242
+        },
+        "stock_ratio": {
+            "-7": 0.007429684699546493,
+            "-5": -0.021717120174701936,
+            "-3": -0.014477977348654502,
+            "0": -0.000736196266384021,
+            "3": 0.013912828326477274,
+            "5": 0.013912828326477274,
+            "7": 0.02024927871732181
+        }
+    },
+    {
+        "title": "Nvidia follows Intel to predict strong growth in data center business",
+        "publish_date": "11/14/2019",
+        "vader_score_raw": {
+            "compound": 0.018961352657004826
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.014004629629629622
+        },
+        "vader_score_steemed": {
+            "compound": -0.0585858585858586
+        },
+        "vader_score_stopwords": {
+            "compound": 0.03114035087719298
+        },
+        "stock_ratio": {
+            "-7": 0.010875536500659616,
+            "-5": 0.001808090704310045,
+            "-3": 0.001808090704310045,
+            "0": 0.0059114125668248895,
+            "3": 0.0175019665844486,
+            "5": -0.003204075290763477,
+            "7": 0.0048353386881114435
+        }
+    },
+    {
+        "title": "Nvidia Signals That Growth of Data Center Business Will Slow",
+        "publish_date": "08/19/2020",
+        "vader_score_raw": {
+            "compound": 0.012784591951258615
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.01406888828763829
+        },
+        "vader_score_steemed": {
+            "compound": 0.005676235140520852
+        },
+        "vader_score_stopwords": {
+            "compound": -0.02538806431663574
+        },
+        "stock_ratio": {
+            "-7": 0.020087969173513822,
+            "-5": 0.024693848009435176,
+            "-3": 0.07950437373379247,
+            "0": 0.035790263510202557,
+            "3": 0.03723866102989295,
+            "5": 0.03723866102989295,
+            "7": 0.02222553274605218
+        }
+    },
+    {
+        "title": "Nvidia Valuation Soars Past Intel on Graphics Chip Boom",
+        "publish_date": "07/08/2020",
+        "vader_score_raw": {
+            "compound": 0.10303030303030304
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.1446969696969697
+        },
+        "vader_score_steemed": {
+            "compound": 0.21515151515151518
+        },
+        "vader_score_stopwords": {
+            "compound": 0.07363636363636364
+        },
+        "stock_ratio": {
+            "-7": 0.017568366265262883,
+            "-5": 0.03845515741995862,
+            "-3": 0.03845515741995862,
+            "0": 0.05526287687866745,
+            "3": -0.003032024960851449,
+            "5": -0.003032024960851449,
+            "7": -0.0019759864843731383
+        }
+    },
+    {
+        "title": "Nvidia Accused of Trying to Discredit Ex-Employee in Crypto Mining Revenue Trial",
+        "publish_date": "08/17/2020",
+        "vader_score_raw": {
+            "compound": -0.03928571428571429
+        },
+        "vader_score_lemmatized": {
+            "compound": -0.03666666666666667
+        },
+        "vader_score_steemed": {
+            "compound": 0.01666666666666667
+        },
+        "vader_score_stopwords": {
+            "compound": -0.03928571428571429
+        },
+        "stock_ratio": {
+            "-7": 0.004053288187177286,
+            "-5": 0.020087969173513822,
+            "-3": 0.024693848009435176,
+            "0": 0.07950437373379247,
+            "3": 0.019952128231173566,
+            "5": 0.03723866102989295,
+            "7": 0.03723866102989295
+        }
+    },
+    {
+        "title": "How Does NVIDIA's (NASDAQ:NVDA) P/E Compare To Its Industry, After The Share Price Drop?\n",
+        "publish_date": "03/17/2020",
+        "vader_score_raw": {
+            "compound": 0.137045957918051
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.13020251778872471
+        },
+        "vader_score_steemed": {
+            "compound": 0.13001421464108034
+        },
+        "vader_score_stopwords": {
+            "compound": 0.12852638352638357
+        },
+        "stock_ratio": {
+            "-7": -0.024093727307793026,
+            "-5": -0.15557633292711487,
+            "-3": -0.17803630290120162,
+            "0": -0.06338185104625942,
+            "3": -0.03491785044348753,
+            "5": 6.0368336929660857e-05,
+            "7": 0.1651081054647607
+        }
+    },
+    {
+        "title": "Nvidia Poised for Record Sales as AI Demand Kicks In",
+        "publish_date": "05/25/2023",
+        "vader_score_raw": {
+            "compound": 0.1296742576672154
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.12060092685092688
+        },
+        "vader_score_steemed": {
+            "compound": 0.09665832801078705
+        },
+        "vader_score_stopwords": {
+            "compound": 0.12178120490620493
+        },
+        "stock_ratio": {
+            "-7": 0.07735210727135826,
+            "-5": 0.035246402822800345,
+            "-3": 0.035246402822800345,
+            "0": 0.18951946960981553,
+            "3": 0.1664872555096856,
+            "5": 0.1664872555096856,
+            "7": 0.08802630782663767
+        }
+    },
+    {
+        "title": "Nvidia Stock\u2019s Surge Makes Chip Maker 10th-Biggest U.S. Listed Company",
+        "publish_date": "07/19/2021",
+        "vader_score_raw": {
+            "compound": 0.10119047619047619
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.10912698412698416
+        },
+        "vader_score_steemed": {
+            "compound": 0.010648148148148144
+        },
+        "vader_score_stopwords": {
+            "compound": 0.08125
+        },
+        "stock_ratio": {
+            "-7": 0.009510776919196383,
+            "-5": -0.01932373572253352,
+            "-3": -0.07667725121840269,
+            "0": -0.037367861832315406,
+            "3": 0.028444766444307806,
+            "5": 0.012362345097799522,
+            "7": 0.012362345097799522
+        }
+    },
+    {
+        "title": "Nvidia Posts Record Revenue as Videogaming Sales Soar",
+        "publish_date": "11/17/2021",
+        "vader_score_raw": {
+            "compound": 0.11545885274146142
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.10874696225760055
+        },
+        "vader_score_steemed": {
+            "compound": 0.10271132376395535
+        },
+        "vader_score_stopwords": {
+            "compound": 0.10002700551481039
+        },
+        "stock_ratio": {
+            "-7": 0.013470932887887421,
+            "-5": 0.0069915720870927555,
+            "-3": -0.006156683013253787,
+            "0": -0.02641828903898517,
+            "3": 0.03324321311102006,
+            "5": 0.03324321311102006,
+            "7": 0.037269794413363776
+        }
+    },
+    {
+        "title": "Nvidia Posts Record Sales as Pandemic Sustains Demand for Gaming, Data-Center Chips",
+        "publish_date": "08/19/2020",
+        "vader_score_raw": {
+            "compound": 0.1259481608538212
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.11620838009726897
+        },
+        "vader_score_steemed": {
+            "compound": 0.10625573921028461
+        },
+        "vader_score_stopwords": {
+            "compound": 0.12983405483405483
+        },
+        "stock_ratio": {
+            "-7": 0.020087969173513822,
+            "-5": 0.024693848009435176,
+            "-3": 0.07950437373379247,
+            "0": 0.035790263510202557,
+            "3": 0.03723866102989295,
+            "5": 0.03723866102989295,
+            "7": 0.02222553274605218
+        }
+    },
+    {
+        "title": "How Nvidia\u2019s CEO Cooked Up America\u2019s Biggest Semiconductor Company",
+        "publish_date": "09/15/2020",
+        "vader_score_raw": {
+            "compound": 0.08522120363296834
+        },
+        "vader_score_lemmatized": {
+            "compound": 0.07937558120891454
+        },
+        "vader_score_steemed": {
+            "compound": 0.09530222863556201
+        },
+        "vader_score_stopwords": {
+            "compound": 0.06625452173397381
+        },
+        "stock_ratio": {
+            "-7": -0.09586418029833899,
+            "-5": -0.05028359657697076,
+            "-3": 0.02843428599522117,
+            "0": 0.03821208393689662,
+            "3": -0.02493525662699408,
+            "5": -0.0010432329741212692,
+            "7": 0.0031610288228414037
+        }
+    }
+]
