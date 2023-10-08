@@ -74,7 +74,7 @@ def parse_text(text):
     # result = {
     #     "compound": sentiment.polarity
     # }
-        return result
+    return result
 
 scored_data = {
     'nflx': [],
